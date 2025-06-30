@@ -1,10 +1,10 @@
 # Innovation-In-Action
 Real-world examples or case-style reflections.
 ## 🚀 Featured Case Studies
-- [🏭 Raytheon – Factory Rearrangement Project](./raytheon-factory-rearrangement/)
+- [🏭 Raytheon – Factory Rearrangement Project](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/raytheon-factory-rearrangement)
   > $3.2M saved | 30+ capital projects | Award-winning execution
 ## 📌 Featured Case Studies
-- [📘 InnovationNet Nonprofit Leadership Platform](./innovationnet-nonprofit-leadership/README.md)
+- [📘 InnovationNet Nonprofit Leadership Platform](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/innovationnet-nonprofit-leadership)
   → 10+ mission-driven programs launched across 4 orgs | 🏛️ Governance & strategic capacity uplifted | 🌱 Leadership dev, digital access & equity-driven design
 ## 📌 Featured Case Studies
 - [Strategic Leadership & Innovation Consulting](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/strategic-leadership-and-innovation)
