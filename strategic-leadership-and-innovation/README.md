@@ -50,11 +50,11 @@ In 2022, I earned the **PMP® (Project Management Professional)** credential, de
 ### 📣 PMI Speaking Highlights:
 - **PMI Global Webinar:**  
   _"Empathetic Leadership: The Key to Effective Change Management"_  
-  ⭐ 20,000+ views | 5.4+ star rating
+  ⭐ 20,000+ views | 4+ star rating
 
 - **PMI Chapter Presentations**:
   - _Leading Innovation in Traditional Environments: Bridging Tradition and Agility_
-  - _Beyond Basic Strategic Power Skills for Team Innovation_
+  - _Beyond Basics Strategic Power Skills for Team Innovation_
 
 These engagements highlight my role as a **thought leader at the intersection of structure and experimentation**.
 
