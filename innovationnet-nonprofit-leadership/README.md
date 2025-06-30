@@ -21,8 +21,8 @@
 * Chaired the NAF Advisory Board during its Year of Planning, launching Bryan Adams High School’s Academy of Engineering.
 * Initiated the school's **first Career Conference** (2015) and supported its journey to **NAFTrack Certification**.
 * Partnered with businesses to offer work-based learning experiences and internships.
-* Awarded the **2016 Women of Color in STEM K–12 Promotion of Education Award**.
-
+* Awarded the **2016 Women of Color in STEM K–12 Promotion of Education Award**
+  
 **Leadership Development:**
 This period was foundational for me in learning how structured governance, strategic planning, and cross-sector collaboration support educational equity and long-term program success. It also laid the groundwork for my transition from corporate environments into community-focused, mission-driven leadership.
 
@@ -64,7 +64,7 @@ This role deepened my understanding of **informal learning environments** and ho
 **Result:**
 The **STEM Insight platform launched successfully** and was recognized as a premier tool for **career and workforce readiness in North Texas**. It contributed to increased STEM student engagement and was celebrated for its accessibility and value to diverse user groups.
 
-**Artifact Link Placeholder:** \[Add digital transformation report or platform preview link here]
+**Artifact Link:** \[(https://drive.google.com/file/d/1Shh4i4ues059-bEusGyYEQpWgNx3jY9_/view?usp=drive_link)]
 
 **Insight:**
 In this role, I expanded my capacity from project leadership to user-centered strategy. I gained real experience in **translating user needs into actionable features** and learned the early foundations of what is now widely applied in **AI product development, agile facilitation, and cross-sector design thinking**.
@@ -88,4 +88,4 @@ This case study represents the prelude to my formal executive leadership roles. 
 
 ---
 
-*This file will evolve as additional artifacts and media are added. For now, it serves as a narrative anchor for the second core story in my Innovation in Action series.*
+
