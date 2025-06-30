@@ -1,7 +1,7 @@
 **📊 Strategic Leadership & Innovation Consulting Case Study**
 
 ## Overview  
-This case study explores my journey from executive nonprofit leadership to innovation consulting—demonstrating how structured transformation, community-centered program development, and agile methodology converged to drive impact at scale.
+This case study explores my journey from executive nonprofit leadership to innovation consulting, demonstrating how structured transformation, community-centered program development, and agile methodology converged to drive impact at scale.
 
 From leading strategic initiatives at the Frontiers of Flight Museum to earning a PMP® certification and speaking at global PMI events, this phase showcases a career evolution into systems thinking, adaptive delivery, and thought leadership.
 
