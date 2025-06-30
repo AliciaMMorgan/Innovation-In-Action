@@ -4,7 +4,7 @@
 
 ## 👩🏽‍💼 Strategic Role: Sole Capital Projects Leader for CCA Department
 
-As the **sole department lead responsible for all capital projects**, I directly led and executed **30+ capital improvement and technology projects annually**, totaling over **\$50 million in value**. I owned the **end-to-end technical, financial, and strategic lifecycle** of projects—from concept and business case development through **execution, closeout, and value realization**.
+As the **sole department lead responsible for all capital projects**, I directly led and executed **30+ capital improvement and technology projects annually**, totaling over **\$15 million in value**. I owned the **end-to-end technical, financial, and strategic lifecycle** of projects—from concept and business case development through **execution, closeout, and value realization**.
 
 My leadership resulted in repeated **team achievement awards**, including for the Factory Rearrangement project, which was delivered with **precision, agility, and impact**.
 
