@@ -58,8 +58,8 @@ In 2022, I earned the **PMP® (Project Management Professional)** credential, de
  
 - **International Institute for Learning, AgileCon2024 Presentation**:
   - [Promo Video](https://youtu.be/GDt5xkx7bqY?si=GIfaNRCOpjm3vNIb)
-  - [Full Presentation]:(https://drive.google.com/file/d/1N4bnopboQl6bqfKVQqDuSfi9dOKSS1c0/view?usp=sharing)
-  - [Blog-Strategic Yet Agile: Leading With Innovation]:(https://blog.iil.com/strategic-yet-agile-leading-with-innovation/)
+  - [Full Presentation](https://drive.google.com/file/d/1N4bnopboQl6bqfKVQqDuSfi9dOKSS1c0/view?usp=sharing)
+  - [Blog-Strategic Yet Agile: Leading With Innovation](https://blog.iil.com/strategic-yet-agile-leading-with-innovation/)
 
 These engagements highlight my role as a **thought leader at the intersection of structure and experimentation**.
 
