@@ -1,4 +1,4 @@
-##Part3: # 📊 Strategic Leadership & Innovation Consulting##  
+##Part3: 📊 Strategic Leadership & Innovation Consulting##  
 
 ## Overview  
 This case study explores my journey from executive nonprofit leadership to innovation consulting—demonstrating how structured transformation, community-centered program development, and agile methodology converged to drive impact at scale.
