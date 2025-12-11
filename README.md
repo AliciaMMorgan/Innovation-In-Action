@@ -22,9 +22,6 @@ Real-world execution examples informing agent design:
 ## 🔍 Topics
 `ai-agents` `pm-automation` `agentic-ai` `innovation-lab` `cross-industry-pm`
 
-## 📄 License
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
- 
 
 ⸻
 ## 📄 License
