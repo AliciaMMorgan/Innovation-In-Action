@@ -1,42 +1,81 @@
 # Innovation in Action 🚀
 
-**Live AI agents operationalizing cross-industry PM frameworks for traditional org transformation.**  
-Sample experiments turning playbook patterns into working tools. [See foundational frameworks](https://github.com/AliciaMMorgan/cross-industry-pm-playbook).
+**From frameworks to working agents: Operationalizing cross-industry PM insights through agentic workflows.**
 
-## 🛠️ AI Agents (Coming Q4 2025)
+This repository bridges strategic PM knowledge and practical implementation. It demonstrates how lessons from scaling mission-critical programs translate into AI agents that help organizations close execution gaps.
 
-- **PM Risk Assessor** `/agents/pm-risk-assessor`  
-  Prioritizes risks using playbook matrices + agentic prompts. [Setup](agents/pm-risk-assessor/README.md)
-- **Change Readiness Diagnostic** `/agents/change-readiness` (Q1 2026)  
-  Scores org maturity against transformation frameworks.
-- **Stakeholder Alignment Tool** `/agents/stakeholder-align` (Q1 2026)  
-  Maps influence patterns in communication strategies.
+## Why Agentic Workflows?
 
-## 📚 Historical Context
-Real-world execution examples informing agent design:
+AI tools can automate repetitive tasks. That's useful but limited. 
 
-- [Raytheon Factory Rearrangement](/raytheon-factory-rearrangement) – $3.2M saved, 30+ capital projects
-- [InnovationNet Nonprofit Platform](/innovationnet-nonprofit-leadership) – 10+ programs across 4 orgs
-- [Strategic Leadership Consulting](/strategic-leadership-and-innovation) – Agile/PMP in traditional sectors
+Agentic workflows do something different. They embed judgment, context, and structured decision-making into systems that adapt and respond. For traditional organizations navigating transformation, this distinction matters.
+
+**Task automation** handles known processes: scheduling meetings, generating reports, routing approvals.
+
+**Agentic systems** handle ambiguity: evaluating risks across competing priorities, surfacing governance gaps before they become crises, mapping stakeholder influence when roles and relationships shift.
+
+The PM Risk Assessor and future agents in this repository demonstrate this evolution. They don't just execute checklists. They ask the right questions at the right time, informed by patterns from real-world scaling challenges.
+
+---
+
+## 🛠️ Active Development
+
+### **PM Risk Assessor** `/agents/pm-risk-assessor` (Q4 2025)
+Identifies data governance and execution risks before teams scale analytics or AI systems.  
+**[Agent Overview](agents/pm-risk-assessor/README.md)** | **[Case Study](agents/pm-risk-assessor/case-vp-stem-data-foundation.md)**
+
+*Status: Case study complete, agent design in progress*
+
+---
+
+## 🔮 Planned Agents (2026)
+
+### **Change Readiness Diagnostic** `/agents/change-readiness` (Q1 2026)
+Scores organizational maturity against transformation frameworks. Identifies capability gaps before major initiatives.
+
+### **Stakeholder Alignment Tool** `/agents/stakeholder-align` (Q1 2026)  
+Maps influence patterns and communication strategies. Surfaces misalignment early in cross-functional programs.
+
+---
+
+## 📚 Foundation: Real Execution Experience
+
+These agents are informed by cross-industry program leadership spanning manufacturing, education, and nonprofit sectors:
+
+* **[Raytheon Factory Rearrangement](raytheon-factory-rearrangement)** – $3.2M saved, 30+ capital projects coordinated across operations
+* **[STEM Museum Data Governance](agents/pm-risk-assessor/case-vp-stem-data-foundation.md)** – Scaled from 30K to 45K+ students with governance certifications
+* **[InnovationNet Nonprofit Platform](innovationnet-nonprofit-leadership)** – 10+ programs across 4 organizations
+* **[Strategic Leadership Consulting](strategic-leadership-and-innovation)** – Agile/PMP implementation in traditional sectors
+
+The patterns from these experiences—taxonomy failures, governance gaps, stakeholder misalignment, audit readiness—recur across industries. The agents translate those patterns into practical tools.
+
+---
+
+## 🔗 Related Work
+
+**[Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)**  
+Foundational frameworks for AI transformation in traditional environments. This repository operationalizes those frameworks through working agents.
+
+---
 
 ## 🔍 Topics
-`ai-agents` `pm-automation` `agentic-ai` `innovation-lab` `cross-industry-pm`
 
+`ai-agents` `agentic-workflows` `pm-automation` `data-governance` `execution-gaps` `cross-industry-pm` `innovation-frameworks`
 
-⸻
+---
+
 ## 📄 License
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 
+This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 You are free to:
-
 - Share — copy and redistribute the material in any medium or format
 - Adapt — remix, transform, and build upon the material for any purpose, even commercially
 
 **Under the following terms:**
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
-  Suggested attribution:  
-  _"Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)"_
+Suggested attribution:  
+*"Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)"*
 
 For full license details, visit [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/).
