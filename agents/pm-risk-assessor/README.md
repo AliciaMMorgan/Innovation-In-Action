@@ -152,7 +152,7 @@ It's the difference between executing a workflow and exercising judgment informe
 Start with the Initial Risk Assessment or jump to the area where you know you have gaps.
 
 ### **Option 2: See It In Action**
-**[→ Read the sample assessment](examples/sample-assessment-stem-museum.md)**
+**[→ Read the sample assessment](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/prompts/01-initial-risk-assessment.md)**
 
 Real example showing what each prompt surfaces and how risks were addressed.
 
