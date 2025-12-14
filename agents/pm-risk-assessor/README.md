@@ -132,16 +132,3 @@ Open an issue or reach out via [GitHub](https://github.com/AliciaMMorgan).
 
 ---
 
-### **Step 4: Commit the File**
-
-1. **Scroll down to "Commit changes"**
-
-2. **Add commit message:**
-```
-   Create PM Risk Assessor agent README with roadmap and case study link
-```
-
-3. **Optional extended description:**
-```
-   Establishes agent purpose, capabilities, implementation timeline, and 
-   differentiates agentic workflows from task automation.
