@@ -1,7 +1,26 @@
 # PM Risk Assessor Agent
 
-**Status:** Design Phase (Q4 2025)  
+**Status:** Prompt Library Available (Dec 2025) | Full Agent Implementation (Q1 2026)  
 **Purpose:** Identify data governance and execution risks before teams scale analytics, dashboards, or agentic AI systems.
+
+---
+
+## 🚀 Use It Now: Prompt Library
+
+**The PM Risk Assessor is available today as a structured prompt library.**
+
+No API costs. No infrastructure. Works with Claude, ChatGPT, Gemini, or any conversational AI tool you already use.
+
+**[→ Go to Prompt Library](prompts/)**
+
+Five prompts covering:
+1. Initial Risk Assessment
+2. Data Governance Audit  
+3. Pipeline Pattern Analysis
+4. Audit Readiness Check
+5. Stakeholder Alignment Diagnostic
+
+**[→ See Real Example: STEM Museum Assessment](examples/sample-assessment-stem-museum.md)**
 
 ---
 
@@ -26,27 +45,45 @@ These aren't theoretical concerns. They're execution gaps that create fragile me
 
 ---
 
-## Agent Capabilities (Planned)
+## Current Capabilities (Prompt Library - Dec 2025)
 
 ### **Risk Prioritization**
-- Evaluates risks across competing priorities using structured frameworks
-- Identifies which governance gaps pose immediate threats vs. future concerns
-- Surfaces hidden dependencies between systems, partners, and data flows
+Evaluates risks across five categories: taxonomy, data ownership, pipeline patterns, audit readiness, stakeholder alignment. Helps teams focus on issues most likely to block scaling.
 
-### **Data Governance Readiness**
-- Assesses taxonomy standardization across programs and partners
-- Validates ownership, privacy controls, and retention policies
-- Checks alignment with regulatory requirements (FERPA, GDPR, industry standards)
+### **Data Governance Readiness**  
+Assesses taxonomy standardization, ownership clarity, privacy controls, and documentation gaps. Surfaces issues before they become compliance crises.
 
 ### **Audit and Validation Checks**
-- Determines external validation readiness (certifications, third-party reviews)
-- Identifies documentation gaps that would block audits or compliance reviews
-- Maps required evidence to actual availability
+Identifies what evidence you can't produce today that auditors, funders, or certification bodies will request tomorrow.
 
 ### **Stakeholder Alignment**
-- Surfaces misalignment between technical teams, leadership, and partners
-- Validates that success criteria are measurable and agreed upon
-- Identifies communication gaps that could derail execution
+Makes implicit assumptions explicit. Reveals where stakeholders think they agree but actually don't.
+
+### **Pipeline Analysis**
+Maps cross-boundary flows and dependencies. Shows where tracking breaks down and bottlenecks emerge.
+
+---
+
+## Planned Capabilities (Full Agent - Q1 2026)
+
+**Interactive Assessment:**
+- Agent asks follow-up questions based on your responses
+- Adapts to your industry context and regulatory environment
+- Generates customized governance roadmaps
+
+**Risk Scoring:**
+- Quantified risk levels across all dimensions
+- Prioritization based on likelihood, impact, and remediation timeline
+- Trend analysis as you implement fixes
+
+**Documentation Generation:**
+- Export findings as audit-ready reports
+- Generate data sharing agreement templates
+- Create governance policy drafts
+
+**Integration:**
+- Connect to playbook frameworks from [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)
+- Pull real examples from case study library
 
 ---
 
@@ -74,25 +111,26 @@ This agent is informed by real-world experience scaling education programs under
 
 ## Implementation Roadmap
 
-### **Q4 2025: Foundation & Design**
-- ✅ Case study documentation complete
-- 🔄 Agent requirements gathering
-- 🔄 Framework design: risk matrices, governance checklists, validation prompts
-- ⏳ Initial agentic workflow prototyping
+### **✅ Q4 2025: Prompt Library (Complete)**
+- Five core assessment prompts available
+- Sample assessment from real STEM case study
+- Documentation and usage guides
+- Works with any conversational AI tool
 
-### **Q1 2026: Prototype Development**
-- Agent implementation using Claude API
-- Integration with playbook frameworks from [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)
-- Testing with sample scenarios from case studies
+### **🔄 Q1 2026: Full Agent Development (In Progress)**
+- Interactive agentic workflow using Claude API
+- Risk scoring and prioritization algorithms
+- Integration with playbook frameworks
+- Documentation generation features
 
-### **Q2 2026: Pilot Testing**
+### **⏳ Q2 2026: Pilot Testing**
 - Real-world validation with organizations scaling analytics/AI
 - Refinement based on user feedback
-- Documentation of common risk patterns surfaced
+- Expansion of case study library with new industry patterns
 
 ---
 
-## How This Agent Differs from Task Automation
+## How This Differs from Task Automation
 
 **Task automation** handles known processes: generating compliance reports, scheduling reviews, routing approvals.
 
@@ -103,6 +141,23 @@ This agent is informed by real-world experience scaling education programs under
 - Adapting prompts based on industry context, regulatory environment, and organizational maturity
 
 It's the difference between executing a workflow and exercising judgment informed by cross-industry patterns.
+
+---
+
+## Get Started
+
+### **Option 1: Use the Prompt Library Today**
+**[→ Go to prompts/](prompts/)**
+
+Start with the Initial Risk Assessment or jump to the area where you know you have gaps.
+
+### **Option 2: See It In Action**
+**[→ Read the sample assessment](examples/sample-assessment-stem-museum.md)**
+
+Real example showing what each prompt surfaces and how risks were addressed.
+
+### **Option 3: Build on This Work**
+All content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapt these prompts to your context, add industry-specific questions, or integrate into your own tools.
 
 ---
 
@@ -128,7 +183,3 @@ Open an issue or reach out via [GitHub](https://github.com/AliciaMMorgan).
 
 *Part of the Innovation in Action repository demonstrating agentic workflows for traditional organization transformation.*  
 *© 2025 Alicia M. Morgan | Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
-
-
----
-
