@@ -20,7 +20,7 @@ Five prompts covering:
 4. Audit Readiness Check
 5. Stakeholder Alignment Diagnostic
 
-**[→ See Real Example: STEM Museum Assessment](examples/sample-assessment-stem-museum.md)**
+**[→ See Real Example: STEM Museum Assessment](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/case-vp-stem-data-foundation.md)**
 
 ---
 
