@@ -128,7 +128,7 @@ Open an issue or reach out via [GitHub](https://github.com/AliciaMMorgan).
 
 *Part of the Innovation in Action repository demonstrating agentic workflows for traditional organization transformation.*  
 *© 2025 Alicia M. Morgan | Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
-```
+
 
 ---
 
