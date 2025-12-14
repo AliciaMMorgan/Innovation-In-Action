@@ -2,7 +2,7 @@
 
 ### How this case was informed
 
-This case study draws from my experience as Vice President of Education & Programs at a regional STEM museum. I served in this role from 2017 to 2020. My responsibilities included student education strategy, program performance, and data governance across multi-year K–12 partnerships.
+This case study draws from my experience as Vice President of Education & Programs at a regional aviation museum. I served in this role from 2017 to 2020. My responsibilities included student education strategy, program performance, and data governance across multi-year K–12 partnerships.
 
 The data-governance and scaling challenges I encountered revealed patterns that recur across industries. These patterns emerge when organizations attempt to scale programs, analytics, or AI systems. Key achievements included managing growth from 30,000 to 45,000+ students annually. The portfolio secured $600K+ in grants. We achieved third-party certifications for outcomes and professional development practices.
 
