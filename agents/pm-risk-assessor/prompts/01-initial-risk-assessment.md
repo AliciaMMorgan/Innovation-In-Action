@@ -1,185 +1,109 @@
-# PM Risk Assessor Agent
+# Initial Risk Assessment
 
-**Status:** Prompt Library Available (Dec 2025) | Full Agent Implementation (Q1 2026)  
-**Purpose:** Identify data governance and execution risks before teams scale analytics, dashboards, or agentic AI systems.
+## Purpose
+Surface high-level governance and scaling risks before diving into detailed analysis. Use this at the start of any analytics, dashboard, or AI initiative.
 
----
+## When to Use
+- Beginning a new program or technology initiative
+- Scaling existing systems or partnerships
+- Post-mortem on stalled or failed implementations
+- Before requesting funding or executive approval
 
-## 🚀 Use It Now: Prompt Library
-
-**The PM Risk Assessor is available today as a structured prompt library.**
-
-No API costs. No infrastructure. Works with Claude, ChatGPT, Gemini, or any conversational AI tool you already use.
-
-**[→ Go to Prompt Library](prompts/)**
-
-Five prompts covering:
-1. Initial Risk Assessment
-2. Data Governance Audit  
-3. Pipeline Pattern Analysis
-4. Audit Readiness Check
-5. Stakeholder Alignment Diagnostic
-
-**[→ See Real Example: STEM Museum Assessment](examples/sample-assessment-stem-museum.md)**
+## Background Context
+This prompt is based on patterns from scaling education programs from 30K to 45K+ students while maintaining audit readiness and securing $600K+ in grants. The same patterns appear across industries when organizations scale without addressing foundational governance.
 
 ---
 
-## Overview
+## Copy This Prompt Into Your AI Tool
+```
+You are a senior PM risk assessor specializing in data governance and program scaling. I need you to identify critical risks before we proceed with this initiative.
 
-The PM Risk Assessor translates lessons from scaling mission-critical programs into structured questions and checks. It helps senior PMs and program leaders surface governance gaps, taxonomy failures, and audit readiness issues early—before they become scaling blockers.
+**Our Initiative:**
+[Describe your project: what you're building, scaling, or implementing]
 
-This agent bridges the gap between strategic frameworks and practical implementation. It doesn't just automate checklists. It asks the right questions at the right time, informed by patterns from real-world program execution.
+**Current State:**
+- Scale: [number of users/students/customers/transactions]
+- Data sources: [list systems, surveys, platforms involved]
+- Partners/stakeholders: [internal teams, external orgs, vendors]
+- Timeline: [launch date, growth targets, constraints]
+- Success metrics: [how you'll measure success]
 
----
+**Analyze through these five lenses:**
 
-## Why This Agent Exists
+1. **Taxonomy & Standards**
+   Are definitions, categories, and measurement scales consistent across all systems and partners?
+   Can you compare data across programs, time periods, or organizational boundaries?
 
-Most organizations rush to implement AI tools or scale analytics without addressing foundational questions:
+2. **Data Ownership & Privacy**
+   Who owns each data asset? Are retention policies, privacy controls, and legal obligations clear?
+   What happens when data crosses organizational boundaries?
 
-- Do we have shared taxonomies across partners and systems?
-- Who owns this data, and what are our retention obligations?
-- How will we demonstrate audit readiness to funders or regulators?
-- What happens when feeder patterns (student pipelines, customer journeys, supply chains) cross organizational boundaries?
+3. **Pipeline Patterns**
+   How do people or data move across stages, systems, or organizations?
+   Are there "feeder patterns" where outcomes in one place depend on inputs from another?
 
-These aren't theoretical concerns. They're execution gaps that create fragile metrics, compliance risk, and failed scaling attempts. The PM Risk Assessor makes these gaps visible before deployment.
+4. **Audit Readiness**
+   What documentation exists to prove compliance, outcomes, or governance practices?
+   Could you pass an external audit or certification review today?
 
----
+5. **Stakeholder Alignment**
+   Do technical teams, leadership, partners, and end-users agree on success criteria?
+   Are there hidden assumptions or misaligned expectations?
 
-## Current Capabilities (Prompt Library - Dec 2025)
+**Output Format:**
+For each risk area, provide:
+- **Risk Name**: Brief, specific title
+- **Category**: Which of the 5 lenses above
+- **Likelihood**: High/Medium/Low
+- **Impact**: High/Medium/Low (if unaddressed)
+- **Evidence**: What indicates this risk exists
+- **Next Step**: One concrete action to validate or mitigate
 
-### **Risk Prioritization**
-Evaluates risks across five categories: taxonomy, data ownership, pipeline patterns, audit readiness, stakeholder alignment. Helps teams focus on issues most likely to block scaling.
-
-### **Data Governance Readiness**  
-Assesses taxonomy standardization, ownership clarity, privacy controls, and documentation gaps. Surfaces issues before they become compliance crises.
-
-### **Audit and Validation Checks**
-Identifies what evidence you can't produce today that auditors, funders, or certification bodies will request tomorrow.
-
-### **Stakeholder Alignment**
-Makes implicit assumptions explicit. Reveals where stakeholders think they agree but actually don't.
-
-### **Pipeline Analysis**
-Maps cross-boundary flows and dependencies. Shows where tracking breaks down and bottlenecks emerge.
-
----
-
-## Planned Capabilities (Full Agent - Q1 2026)
-
-**Interactive Assessment:**
-- Agent asks follow-up questions based on your responses
-- Adapts to your industry context and regulatory environment
-- Generates customized governance roadmaps
-
-**Risk Scoring:**
-- Quantified risk levels across all dimensions
-- Prioritization based on likelihood, impact, and remediation timeline
-- Trend analysis as you implement fixes
-
-**Documentation Generation:**
-- Export findings as audit-ready reports
-- Generate data sharing agreement templates
-- Create governance policy drafts
-
-**Integration:**
-- Connect to playbook frameworks from [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)
-- Pull real examples from case study library
+Prioritize the top 5 risks overall. Focus on risks that will get worse as you scale.
+```
 
 ---
 
-## Foundational Case Study
+## How to Use This Prompt
 
-This agent is informed by real-world experience scaling education programs under strict governance constraints:
+1. **Copy the entire prompt** from the code block above
+2. **Paste into Claude, ChatGPT, or your preferred AI tool**
+3. **Fill in your specific context** (replace the bracketed placeholders)
+4. **Review the output** - Does it surface risks your team hasn't discussed?
+5. **Share with stakeholders** - Use as conversation starter for governance planning
 
-**[Read the full case study: Data Governance Foundation for a STEM Pipeline →](case-vp-stem-data-foundation.md)**
+## What Good Output Looks Like
 
-### Key Lessons Embedded in Agent Design:
+The AI should identify:
+- Specific risks (not generic "data quality issues")
+- Evidence-based concerns (pointing to your context)
+- Actionable next steps (not just "develop a plan")
+- Prioritization based on likelihood + impact
+- Cross-functional implications
 
-1. **Growth without shared taxonomies creates hidden risk**  
-   Surveys in silos, inconsistent labels, partner misalignment—these patterns recur across industries.
+## Red Flags in Output
 
-2. **Pipeline patterns must be designed up front**  
-   Feeder patterns (K-12 to workforce, customer acquisition to retention) can't be retrofitted after systems ship.
-
-3. **External validations test real maturity**  
-   State approvals, outcomes certifications, and audit readiness aren't badges—they're practical tests of governance strength.
-
-4. **Quantifiable outcomes prove the framework works**  
-   30K→45K students, $600K+ grants, third-party certifications—measurable results from governed data flows.
-
----
-
-## Implementation Roadmap
-
-### **✅ Q4 2025: Prompt Library (Complete)**
-- Five core assessment prompts available
-- Sample assessment from real STEM case study
-- Documentation and usage guides
-- Works with any conversational AI tool
-
-### **🔄 Q1 2026: Full Agent Development (In Progress)**
-- Interactive agentic workflow using Claude API
-- Risk scoring and prioritization algorithms
-- Integration with playbook frameworks
-- Documentation generation features
-
-### **⏳ Q2 2026: Pilot Testing**
-- Real-world validation with organizations scaling analytics/AI
-- Refinement based on user feedback
-- Expansion of case study library with new industry patterns
+If the AI returns vague or generic advice:
+- Add more specific details about your systems and stakeholders
+- Include examples of past failures or near-misses
+- Specify your industry, regulatory environment, or compliance requirements
 
 ---
 
-## How This Differs from Task Automation
+## Related Prompts
 
-**Task automation** handles known processes: generating compliance reports, scheduling reviews, routing approvals.
-
-**The PM Risk Assessor** handles ambiguity:
-- Evaluating which risks matter most when resources are constrained
-- Identifying governance gaps that aren't obvious from checklists
-- Asking questions teams don't know to ask until problems emerge
-- Adapting prompts based on industry context, regulatory environment, and organizational maturity
-
-It's the difference between executing a workflow and exercising judgment informed by cross-industry patterns.
+- **[Data Governance Audit](02-data-governance-audit.md)** - Deep dive on taxonomy, ownership, privacy
+- **[Pipeline Pattern Analysis](03-pipeline-pattern-analysis.md)** - Examine cross-boundary flows
+- **[Audit Readiness Check](04-audit-readiness-check.md)** - Documentation and compliance gaps
+- **[Stakeholder Alignment](05-stakeholder-alignment.md)** - Surface hidden misalignment
 
 ---
 
-## Get Started
+## Example Output
 
-### **Option 1: Use the Prompt Library Today**
-**[→ Go to prompts/](prompts/)**
-
-Start with the Initial Risk Assessment or jump to the area where you know you have gaps.
-
-### **Option 2: See It In Action**
-**[→ Read the sample assessment](examples/sample-assessment-stem-museum.md)**
-
-Real example showing what each prompt surfaces and how risks were addressed.
-
-### **Option 3: Build on This Work**
-All content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapt these prompts to your context, add industry-specific questions, or integrate into your own tools.
+See **[Sample Assessment: STEM Museum Case](../examples/sample-assessment-stem-museum.md)** for a real example of this prompt applied to a 30K→45K student scaling initiative.
 
 ---
 
-## Related Resources
-
-- **[Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)** - Foundational frameworks this agent operationalizes
-- **[Innovation in Action Repository](https://github.com/AliciaMMorgan/Innovation-In-Action)** - Additional case studies and future agents
-- **[Case Study: STEM Data Governance](case-vp-stem-data-foundation.md)** - Real execution experience informing agent design
-
----
-
-## Contributing & Feedback
-
-This is an active development project. If you're a PM, program leader, or technologist working on similar challenges, I'd welcome your input:
-
-- What governance gaps do you encounter most frequently?
-- What questions would help surface risks earlier?
-- What patterns from your industry should inform the agent's logic?
-
-Open an issue or reach out via [GitHub](https://github.com/AliciaMMorgan).
-
----
-
-*Part of the Innovation in Action repository demonstrating agentic workflows for traditional organization transformation.*  
-*© 2025 Alicia M. Morgan | Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
+*Part of the PM Risk Assessor prompt library*  
+*Based on lessons from scaling mission-critical programs under governance constraints*
