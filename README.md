@@ -55,6 +55,10 @@ The patterns from these experiences—taxonomy failures, governance gaps, stakeh
 **[Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)**  
 Foundational frameworks for AI transformation in traditional environments. This repository operationalizes those frameworks through working agents.
 
+**Ecosystem signals – Digital Workplace & Tools**  
+GitHub starred lists for **Digital Workplace & Tools, GRC Insights, Agent Skills Building, and Copilot Trainings** show the platforms and governance patterns this lab tracks across modern PM stacks.
+
+
 ---
 
 ## 🔍 Topics
