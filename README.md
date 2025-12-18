@@ -26,7 +26,7 @@ Prompt library available now. Identifies governance and execution risks before t
 *Status: Prompt Library Available (5 prompts + sample assessment) | Full Agent Q1 2026
 
 ## NIST AI RMF–Aligned
-Recently completed the LinkedIn Learning course Understanding and Implementing the NIST AI Risk Management Framework (RMF) and am using its core functions to shape how these agents are structured, evaluated, and governed. As the PM Risk Assessor evolves from secure, anonymous prompt flows into full agents, it will increasingly reference the NIST AI RMF Playbook and NIST Cybersecurity Framework to anchor risk, governance, and monitoring activities across the AI lifecycle.
+Recently completed the LinkedIn Learning course **Understanding and Implementing the NIST AI Risk Management Framework (RMF)** and am using its core functions to shape how these agents are structured, evaluated, and governed. As the PM Risk Assessor evolves from secure, anonymous prompt flows into full agents, it will increasingly reference the NIST AI RMF Playbook and NIST Cybersecurity Framework to anchor risk, governance, and monitoring activities across the AI lifecycle.
 
 
 ---
