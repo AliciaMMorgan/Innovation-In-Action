@@ -23,7 +23,14 @@ The PM Risk Assessor and future agents in this repository demonstrate this evolu
 Prompt library available now. Identifies governance and execution risks before teams scale analytics or AI systems.  
 **[Use the Prompts →](agents/pm-risk-assessor/prompts/)** | **[Agent Overview](agents/pm-risk-assessor/README.md)** | **[Case Study](agents/pm-risk-assessor/case-vp-stem-data-foundation.md)** | **[See Example](agents/pm-risk-assessor/examples/sample-assessment-stem-museum.md)**
 
-*Status: Prompt Library Available (5 prompts + sample assessment) | Full Agent Q1 2026*
+*Status: Prompt Library Available (5 prompts + sample assessment) | Full Agent Q1 2026
+
+*NIST AI RMF–Aligned
+Recently completed the LinkedIn Learning course “Understanding and Implementing the NIST AI Risk Management Framework (RMF)” and am using its core functions to shape how these agents are structured, evaluated, and governed. As the PM Risk Assessor evolves from secure, anonymous prompt flows into full agents, it will increasingly reference the NIST AI RMF Playbook and NIST Cybersecurity Framework to anchor risk, governance, and monitoring activities across the AI lifecycle.
+
+
+
+
 
 ---
 
