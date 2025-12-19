@@ -1,98 +1,55 @@
-# Innovation in Action 🚀
+# Model-Based Reflex Agent
 
-**From frameworks to working agents: Operationalizing cross-industry PM insights through agentic workflows.**
+## What is a Model-Based Reflex Agent?
+A model-based reflex agent is a system that uses an internal model of the environment to make decisions. Unlike simple reflex agents, which only react to current conditions, model-based reflex agents maintain a memory of the past states, actions, and their effects. This enables them to infer the current state of the environment and respond based on both immediate input and stored knowledge.
 
-This repository bridges strategic PM knowledge and practical implementation. It demonstrates how lessons from scaling mission-critical programs translate into AI agents that help organizations close execution gaps.
+## Connection to Project Execution Gaps and Knowledge–Implementation–Trust
+This project applies the concept of a model-based reflex agent to address execution gaps in project management. Execution gaps arise when there are mismatches or shortcomings in one or more of these areas:
+- **Knowledge (K):** Gaps in understanding or information.
+- **Implementation (I):** Challenges in executing tasks or plans.
+- **Trust (T):** Issues related to trust among team members or stakeholders.
 
-## Why Agentic Workflows?
+The agent interprets project inputs such as risks, blockers, and trust issues and provides targeted recommendations to close these gaps. Each recommendation is explicitly labeled by its focus area (K/I/T), helping teams take corrective actions efficiently.
 
-AI tools can automate repetitive tasks. That's useful but limited. 
+## How to Run the Agent Example
 
-Agentic workflows do something different. They embed judgment, context, and structured decision-making into systems that adapt and respond. For traditional organizations navigating transformation, this distinction matters.
+### Prerequisites
+Before running the example, make sure you have Python installed on your system.
 
-**Task automation** handles known processes: scheduling meetings, generating reports, routing approvals.
+### Steps
+1. Clone the repository and switch to the `model-based-agent` branch:
+   ```bash
+   git clone https://github.com/AliciaMMorgan/Innovation-In-Action.git
+   cd Innovation-In-Action
+   git checkout model-based-agent
+   ```
 
-**Agentic systems** handle ambiguity: evaluating risks across competing priorities, surfacing governance gaps before they become crises, mapping stakeholder influence when roles and relationships shift.
+2. Review the sample input JSON file (`sample_input.json`) to understand the format of project data:
+   ```json
+   {
+       "risks": ["Incomplete requirements", "Lack of expertise"],
+       "blockers": ["Tooling delays", "Resource availability"],
+       "trust_issues": ["Low team morale"]
+   }
+   ```
 
-The PM Risk Assessor and future agents in this repository demonstrate this evolution. They don't just execute checklists. They ask the right questions at the right time, informed by patterns from real-world scaling challenges.
+3. Run the Python script (make sure the input file `sample_input.json` is in the same directory):
+   ```bash
+   python project_execution_gap_agent.py
+   ```
 
----
+4. Review the output JSON file (`sample_output.json`) for recommendations. Example output:
+   ```json
+   {
+       "recommendations": [
+           {
+               "classification": "K",
+               "label": "Knowledge",
+               "recommendation": "Address Incomplete requirements to improve Knowledge"
+           },
+           ...
+       ]
+   }
+   ```
 
-## 🛠️ Active Development
-### **PM Risk Assessor** `/agents/pm-risk-assessor` (Dec 2025)
-Prompt library available now. Identifies governance and execution risks before teams scale analytics or AI systems.  
-**[Use the Prompts →](agents/pm-risk-assessor/prompts/)** | **[Agent Overview](agents/pm-risk-assessor/README.md)** | **[Case Study](agents/pm-risk-assessor/case-vp-stem-data-foundation.md)** | **[See Example](agents/pm-risk-assessor/examples/sample-assessment-stem-museum.md)**
-
-*Status: Prompt Library Available (5 prompts + sample assessment) | Full Agent Q1 2026
-
-## Suggested Artifacts 
-Enhance PM Risk Assessor in your workflows:
-- **JIRA**: Import prompts as Kanban issues (risk register board)
-- **Confluence**: Embed agent outputs + NIST mappings
-- **Power BI**: Risk heatmap from CSV exports
-- **GitHub Issues**: Log gaps/customizations (template ready)
-
-Fork & contribute via Issues.
-
-
-## NIST AI RMF–Aligned
-Recently completed the LinkedIn Learning course **Understanding and Implementing the NIST AI Risk Management Framework (RMF)**. I am using its core functions to shape how these agents are structured, evaluated, and governed. As the PM Risk Assessor evolves from secure, anonymous prompt flows into full agents, it will increasingly reference the NIST AI RMF Playbook and NIST Cybersecurity Framework to anchor risk, governance, and monitoring activities across the AI lifecycle.
-
-
----
-
-## 🔮 Planned Agents (2026)
-
-### **Change Readiness Diagnostic** `/agents/change-readiness` (Q1 2026)
-Scores organizational maturity against transformation frameworks. Identifies capability gaps before major initiatives.
-
-### **Stakeholder Alignment Tool** `/agents/stakeholder-align` (Q1 2026)  
-Maps influence patterns and communication strategies. Surfaces misalignment early in cross-functional programs.
-
----
-
-## 📚 Foundation: Real Execution Experience
-
-These agents are informed by cross-industry program leadership spanning manufacturing, education, and nonprofit sectors:
-
-* **[Raytheon Factory Rearrangement](raytheon-factory-rearrangement)** – $3.2M saved, 30+ capital projects coordinated across operations
-* **[STEM Museum Data Governance](agents/pm-risk-assessor/case-vp-stem-data-foundation.md)** – Scaled from 30K to 45K+ students with governance certifications
-* **[InnovationNet Nonprofit Platform](innovationnet-nonprofit-leadership)** – 10+ programs across 4 organizations
-* **[Strategic Leadership Consulting](strategic-leadership-and-innovation)** – Agile/PMP implementation in traditional sectors
-
-The patterns from these experiences—taxonomy failures, governance gaps, stakeholder misalignment, audit readiness—recur across industries. The agents translate those patterns into practical tools.
-
----
-
-## 🔗 Related Work
-
-**[Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)**  
-Foundational frameworks for AI transformation in traditional environments. This repository operationalizes those frameworks through working agents.
-
-**Ecosystem signals – Digital Workplace & Tools**  
-GitHub starred lists for **Digital Workplace & Tools, GRC Insights, Agent Skills Building, and Copilot Trainings** show the platforms and governance patterns this lab tracks across modern PM stacks.
-
-
----
-
-## 🔍 Topics
-
-`ai-agents` `agentic-workflows` `pm-automation` `data-governance` `execution-gaps` `cross-industry-pm` `innovation-frameworks`
-
----
-
-## 📄 License
-
-This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially
-
-**Under the following terms:**
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-
-Suggested attribution:  
-*"Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)"*
-
-For full license details, visit [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/).
+This demonstrates how the agent takes project data, processes it, and suggests actionable recommendations for closing execution gaps.
