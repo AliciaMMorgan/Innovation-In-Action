@@ -10,7 +10,7 @@ Fiduciary responsibility applies to **all** AI tools—GitHub Copilot, ChatGPT, 
 - **Real enterprises track**: Budgets, charge numbers, token spend—unrefined prompts create audit flags everywhere.
 
 ## Why This Matters (Nonprofit to Fortune 500)
-- **Universal Budget Reality**: Nonprofits watch pennies; enterprises track AI via chargebacks. Same discipline.
+- **Universal Budget Reality**: Nonprofits have restricted budgets; enterprises track AI via chargebacks. Same discipline.
 - **Human-in-the-Loop Required**: Refine offline → invoke sparingly → validate outputs. Think → tighten → execute.
   
 **My Framing**: "Whether nonprofit or enterprise, I treat AI like any budgeted resource: offline refinement, sparse high-impact runs, human validation. Charge numbers reflect governance, not trial-and-error."
