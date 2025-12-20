@@ -156,7 +156,7 @@ It forms the bridge between:
   - **Tab 3: Portfolio Rollup** – Single / 5‑program / 15‑program view, including hours saved and \$3.2M+ impact estimates.
 
 *(If you keep an editable sheet in the repo, you can also add:)*  
-- `artifacts/AI-Wins-Dashboard.xlsx` – Optional source template organizations can adapt to their own portfolios.
+- artifacts/AI-Wins-Dashboard – Optional source template organizations can adapt to their own portfolios.
 
 **How to use:**
 
