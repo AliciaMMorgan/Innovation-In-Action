@@ -47,8 +47,8 @@ Prompt library available now. Identifies governance and execution risks before t
 
 ## Suggested Artifacts 
 Enhance PM Risk Assessor in your workflows:
-- **JIRA**: Import prompts as Kanban issues (risk register board) [Artifact Example](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/Portfolio%20Risk%20Dashboard%20Jira.jpg) [Artifact Example](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/Confluence%20Portfolio%20Risk%20Dashboard.jpg)
-- **Confluence**: Embed agent outputs + NIST mappings
+- **JIRA**: Import prompts as Kanban issues (risk register board) [Artifact Example](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/Portfolio%20Risk%20Dashboard%20Jira.jpg) 
+- **Confluence**: Embed agent outputs + NIST mappings [[Artifact Example](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/Confluence%20Portfolio%20Risk%20Dashboard.jpg)
 - **Power BI**: Risk heatmap from CSV exports
 - **GitHub Issues**: Log gaps/customizations (template ready)
 
