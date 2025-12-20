@@ -55,6 +55,10 @@ Enhance PM Risk Assessor in your workflows:
 Fork & contribute via Issues.
 
 
+---
+
+
+
 ## NIST AI RMF–Aligned
 Recently completed the LinkedIn Learning course **Understanding and Implementing the NIST AI Risk Management Framework (RMF)**. I am using its core functions to shape how these agents are structured, evaluated, and governed. As the PM Risk Assessor evolves from secure, anonymous prompt flows into full agents, it will increasingly reference the NIST AI RMF Playbook and NIST Cybersecurity Framework to anchor risk, governance, and monitoring activities across the AI lifecycle.
 
