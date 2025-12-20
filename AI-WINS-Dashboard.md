@@ -150,7 +150,7 @@ It forms the bridge between:
 
 ## Files and Usage
 
-- `[artifacts/AI-Wins-Dashboard.pdf]` – Three‑tab view exported from Google Sheets:
+- `[[artifacts/AI-Wins-Dashboard.pdf]](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/AI_Wins_Dashboard_Senior_Program_Leader.xlsx.pdf)` – Three‑tab view exported from Google Sheets:
   - **Tab 1: AI Wins Dashboard** – Task‑level automate / augment / human‑led view with time saved and quality deltas.
   - **Tab 2: Risk × Strategic Moat** – Matrix of Automation Risk vs Strategic Moat across key PM risk tasks.
   - **Tab 3: Portfolio Rollup** – Single / 5‑program / 15‑program view, including hours saved and \$3.2M+ impact estimates.
