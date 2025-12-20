@@ -17,6 +17,26 @@ Agentic workflows do something different. They embed judgment, context, and stru
 The PM Risk Assessor and future agents in this repository demonstrate this evolution. They don't just execute checklists. They ask the right questions at the right time, informed by patterns from real-world scaling challenges.
 
 ---
+## 🤖 Agent-First vs API-First: When to Choose
+
+Built low-code first (free Copilot tier, no APIs). Here's why it works for PMs:
+
+**✅ Choose Agent-First When:**
+- Need MVP in hours (risk prototypes)
+- Resource-constrained teams  
+- Prove fluency fast (interviews, pilots)
+- Domain-specific scenarios (PMBOK risk)
+
+**🔄 Add APIs Later For:**
+- Enterprise scaling (CRM hooks)
+- Multi-tool orchestration
+- Production RBAC/compliance
+
+*90% PM use cases start here. Scale as needed.*
+
+
+---
+
 
 ## 🛠️ Active Development
 ### **PM Risk Assessor** `/agents/pm-risk-assessor` (Dec 2025)
