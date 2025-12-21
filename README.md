@@ -1,4 +1,4 @@
-# Innovation in Action 🚀
+# Innovation in Action 
 
 **From frameworks to working agents: Operationalizing cross-industry PM insights through agentic workflows.**
 
