@@ -132,7 +132,7 @@ GitHub starred lists for **Digital Workplace & Tools, GRC Insights, Agent Skills
 
 ## 🔍 Topics
 
-`ai-agents` `agentic-workflows` `pm-automation` `data-governance` `execution-gaps` `cross-industry-pm` `innovation-frameworks`
+`ai-agents` `agentic-workflows` `pm-automation` `data-governance` `execution-gaps` `cross-industry-pm` `innovation-frameworks`  `nist-ai-rmf`
 
 ---
 
