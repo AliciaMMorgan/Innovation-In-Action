@@ -30,6 +30,21 @@ Most AI workflows in 2026 will handle task automation. This repository demonstra
 
 ---
 
+## 📊 Strategic Foundation: AI WINS Dashboard
+
+The agents in this repository are informed by the **AI WINS Dashboard** - a task-level framework for deciding where to automate, augment, or keep work human-led.
+
+Developed from the MasterClass "AI Strategy at Work: How to Become Indispensable," it operationalizes:
+- ~28 hours/week of risk work shifted or streamlined
+- Up to $3.2M+ potential portfolio impact across government IT programs
+- NIST AI RMF–aligned decision criteria
+
+**[View Full Dashboard Methodology →](AI-WINS-Dashboard.md)**
+
+This framework ensures agents are deployed **appropriately**, not maximally - balancing efficiency with accountability.
+
+---​​​​​​​​​​​​​​​​
+
 ## 🤖 Agent-First vs API-First: When to Choose
 
 Built low-code first (free Copilot tier, no APIs). Here's why it works for PMs:
