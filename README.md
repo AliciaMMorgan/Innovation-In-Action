@@ -62,6 +62,9 @@ Built low-code first (free Copilot tier, no APIs). Here's why it works for PMs:
 
 *90% PM use cases start here. Scale as needed.*
 
+**Responsible AI Usage:** All agents in this repo follow fiduciary stewardship principles across free/paid/enterprise tiers. [View full governance approach →](Responsible-AI-Usage.md)
+
+
 
 ---
 
