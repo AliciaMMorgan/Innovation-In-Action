@@ -25,7 +25,7 @@ Most AI workflows in 2026 will handle task automation. This repository demonstra
 - **NIST-aligned governance** baked into prompts (not bolted on later)
 - **Zero-to-agent in <4 hours** using free tiers (Copilot Studio, GitHub, ChatGPT)
 
-**Outcome:** Traditional orgs gain enterprise-grade risk detection without custom dev teams.
+**Outcome:** Traditional orgs gain enterprise-grade risk detection while dev teams focus on core product work.
 
 
 ---
