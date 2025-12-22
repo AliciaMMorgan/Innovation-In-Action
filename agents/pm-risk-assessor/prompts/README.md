@@ -11,7 +11,7 @@
 
 No API costs. No infrastructure. Works with Claude, ChatGPT, Gemini, or any conversational AI tool you already use.
 
-**[→ Go to Prompt Library](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/prompts/README.md/)**
+**[→ Go to Prompt Library](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor/prompts)**
 
 Five prompts covering:
 1. Initial Risk Assessment
