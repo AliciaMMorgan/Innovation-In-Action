@@ -4,6 +4,29 @@
 
 This repository bridges strategic PM knowledge and practical implementation. It demonstrates how lessons from scaling mission-critical programs translate into AI agents that help organizations close execution gaps.
 
+---
+
+## 🎯 Featured: 9-Step Career Framework
+
+**From Traditional PM to AI-Fluent Leader** (June–December 2025)
+
+**[📊 View the complete visual journey →](artifacts/carousel:9-steps-traditional-pm-to-ai-fluent-leader.pdf)**
+
+This carousel documents the 6-month transformation from traditional PM to building AI agents:
+
+| Phase | Focus | Key Outcome |
+|-------|-------|-------------|
+| **Foundation** | Aerospace + Industrial Engineering | Structure for governance & scale |
+| **Evolution** | Cross-sector fluency | Pattern recognition across industries |
+| **Transformation** | AI ecosystem building | Working agents + frameworks |
+
+The same principles that guided my pivot can help you navigate yours.
+
+**Also available:** [Blog](https://aliciammorgan.com/what-i-built-in-2025-ai-fluency/)
+
+---
+
+
 ## Why Agentic Workflows?
 
 AI tools can automate repetitive tasks. That's useful but limited. 
