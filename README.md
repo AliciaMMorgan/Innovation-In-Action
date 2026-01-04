@@ -71,11 +71,12 @@ Fork & contribute via Issues.
 
 **AI Fluency Foundation → Agentic Literacy + Production Ops**:
 - **Anthropic AI Fluency Course**: Cognitive fluency (prompt engineering for safe agents)
-- **Anhtropic How Enterprises are Building AI agents in 2026 Report**: The 2026 State of AI Agents Report 
+- **Anthropic How Enterprises are Building AI agents in 2026 Report**: The 2026 State of AI Agents Report 
 - **Microsoft Learn AI Fluency Track**: Operational chaining (Azure deployment testing)
 - **AI Strategy at Work Masterclass**: Business value frameworks
 - **Understanding and Implementing the NIST AI Risk Management Framework(RMF) (LinkedIn)**: Govern/Measure functions operationalized
 - **Advanced AI Governance: Operationalizing AI Controls and Continuous Monitoring (LinkedIn)**: Continuous monitoring/controls
+- **Familiarization with ISO 27001 and ISO 42001**: Regulatory Frameworks for AI Governance and Information Security Controls
 - **AI Coding Agents (GitHub Copilot/Cursor) (LinkedIn)**: Production workflows
 - **AWS Machine Learning Basics + AI Cloud Essentials**: **Model economics (token burn, cache/latency optimization, capacity forecasting, quota management)**
 - **"The Coming Wave" (book) by Mustafa Suleyman**: Deployment testing to contain risks
