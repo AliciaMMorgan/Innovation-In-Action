@@ -2,7 +2,7 @@
 
 **From frameworks to working agents: Operationalizing cross-industry PM insights through agentic workflows.**
 
-*Anthropic 2026 State of AI Agents Report*: **57% enterprises deploy multi-step agents**; **80% ROI today**.[attached_file:1][web:21]
+*Anthropic 2026 State of AI Agents Report*: **57% enterprises deploy multi-step agents**; **80% ROI today**.
 
 This repository demonstrates **Agentic Literacy** — **Cognitive/Operational/Ethical Fluency** for directing autonomous digital workers across **augment, automate, agent** phases using **4D Framework** (Discover, Design, Deploy, Detect).
 
@@ -13,16 +13,16 @@ This repository demonstrates **Agentic Literacy** — **Cognitive/Operational/Et
 
 ## 🎯 Featured: 9-Step Career Framework
 
-**"9 Steps: Traditional PM → AI-Fluent Leader"** LinkedIn carousel (Dec 2025) — your Agentic Literacy pathway.[[Carousel](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/f13275f6433a79958a741276404134e47b0fcfcf/artifacts/carousel%3A9-steps-traditional-pm-to-ai-fluent-leader.pdf)]
+**"9 Steps: Traditional PM → AI-Fluent Leader"** LinkedIn carousel (Dec 2025) — your Agentic Literacy pathway.[[Carousel Here](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/f13275f6433a79958a741276404134e47b0fcfcf/artifacts/carousel%3A9-steps-traditional-pm-to-ai-fluent-leader.pdf)]
 
 ## Why Agentic Workflows?
 
 Traditional PM: **document → meeting → decision**. Agentic: **prompt → validate → deploy → monitor**.  
-**81% plan complex agents 2026** (multi-step/cross-functional).[attached_file:1][web:20]
+**81% plan complex agents 2026** (multi-step/cross-functional).
 
 ## Competitive Advantage: Domain-Specific Judgment at Scale
 
-**Cognitive Fluency**: Understanding AI "thinking"/failures → eliminates technical debt from bad outputs.[attached_file:1]  
+**Cognitive Fluency**: Understanding AI "thinking"/failures → eliminates technical debt from bad outputs. 
 Cross-industry PM (aerospace → healthcare → nonprofits) scales judgment via production agents.
 
 ## 📊 Strategic Foundation: AI WINS Dashboard
@@ -55,7 +55,7 @@ Workflow → Intelligence → NIST → Scale
 ### PM Risk Assessor `/agents/pm-risk-assessor` (Dec 2025)
 
 **Live Now**: 5 production prompts + STEM museum case study. Identifies governance/execution gaps pre-scaling.  
-**90% enterprises use coding agents** — yours for PM governance.[web:17]
+**90% enterprises use coding agents** — yours for PM governance.
 
 ## Suggested Artifacts 🛠️
 
@@ -87,7 +87,7 @@ Fork & contribute via Issues.
 
 ## 🔮 Planned Agents (2026)
 
-**Q1 2026: Deploy 1 Production Agent + Evaluate** (matches **80% ROI reality**)[web:21]
+**Q1 2026: Deploy 1 Production Agent + Evaluate** (matches **80% ROI reality**)
 
 - ✅ **Change Readiness Diagnostic** `/agents/change-readiness` (**Q1 Priority**: Org transformation focus, live testing)
 - 🔄 **Stakeholder Alignment Tool** `/agents/stakeholder-align` (**Q2+: Post-Q1 evaluation**)
