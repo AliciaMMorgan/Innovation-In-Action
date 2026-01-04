@@ -109,7 +109,7 @@ Govern → Map → Measure → Manage
 
 ## 🔗 Related Work
 - [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)
-- [LinkedIn: AI Fluency Frameworks](https://www.linkedin.com/in/aliciammorgan1/)
+- [LinkedIn: Connect with Me](https://www.linkedin.com/in/aliciammorgan1/)
 
 ## 🔍 Topics
 ```
