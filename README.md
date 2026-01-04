@@ -73,13 +73,13 @@ Fork & contribute via Issues.
 - **Anthropic AI Fluency Course**: Cognitive fluency (prompt engineering for safe agents)
 - **Microsoft Learn AI Fluency Track**: Operational chaining (Azure deployment testing)
 - **AI Strategy at Work Masterclass**: Business value frameworks
-- **NIST AI RMF (LinkedIn)**: Govern/Measure functions operationalized
-- **Advanced AI Governance (LinkedIn)**: Continuous monitoring/controls
-- **AI Coding Agents (GitHub Copilot/Cursor)**: Production workflows
-- **AWS ML Foundations + AI Cloud Essentials**: **Model economics (token burn, cache/latency optimization, capacity forecasting, quota management)**
+- **Understanding and Implementing the NIST AI Risk Management Framework(RMF) (LinkedIn)**: Govern/Measure functions operationalized
+- **Advanced AI Governance: Operationalizing AI Controls and Continuous Monitoring (LinkedIn)**: Continuous monitoring/controls
+- **AI Coding Agents (GitHub Copilot/Cursor) (LinkedIn)**: Production workflows
+- **AWS Machine Learning Basics + AI Cloud Essentials**: **Model economics (token burn, cache/latency optimization, capacity forecasting, quota management)**
 - **"The Coming Wave" (book) by Mustafa Suleyman**: Deployment testing to contain risks
-- **PIV Demo (Jan 3-5 2026)**: Claude/ChatGPT/Perplexity/Gemini financial migration assessment → `/demos/piv-risk-financial-migration/`
-- **LinkedIn Carousels**: "9 Steps PM→AI Leader" + "5 Ways Communicate Value" (2x engagement)
+- **PIV Demo (Jan 3-5 2026)**: Claude/ChatGPT/Perplexity/Gemini/Copilot financial migration assessment → `/demos/piv-risk-financial-migration/`
+- **LinkedIn Carousels**: "9 Steps Tranditional PM to → AI Fluent Leader" + "5 Ways to Communicate for Business Value" (2x engagement)
 
 **Solves enterprise blockers**: Integration(**46%**)/Data(**42%**) + cost/capacity controls.
 
