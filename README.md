@@ -1,176 +1,126 @@
-# Innovation in Action 
+# Innovation in Action 🎯
 
 **From frameworks to working agents: Operationalizing cross-industry PM insights through agentic workflows.**
 
-This repository bridges strategic PM knowledge and practical implementation. It demonstrates how lessons from scaling mission-critical programs translate into AI agents that help organizations close execution gaps.
+*Anthropic 2026 State of AI Agents Report*: **57% enterprises deploy multi-step agents**; **80% ROI today**.[attached_file:1][web:21]
 
----
+This repository demonstrates **Agentic Literacy** — **Cognitive/Operational/Ethical Fluency** for directing autonomous digital workers across **augment, automate, agent** phases using **4D Framework** (Discover, Design, Deploy, Detect).
+
+**Identifies governance and execution risks before teams scale analytics or AI systems.**<br>
+<strong>[Use the Prompts →](/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/prompts)</strong> | <strong>[Agent Overview](/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/README.md)</strong> | <strong>[Case Study](/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/case-vp-stem-data-foundation.md)</strong> | <strong>[See Example](/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/examples/sample-assessment-stem-museum.md)</strong>
+
+*Status: Prompt Library Available (5 prompts + sample assessment) | Full Agent Q1 2026*
 
 ## 🎯 Featured: 9-Step Career Framework
 
-**From Traditional PM to AI-Fluent Leader** (June–December 2025)
-
-**[📊 View the complete visual journey →](artifacts/carousel:9-steps-traditional-pm-to-ai-fluent-leader.pdf)**
-
-This carousel documents the 6-month transformation from traditional PM to building AI agents:
-
-| Phase | Focus | Key Outcome |
-|-------|-------|-------------|
-| **Foundation** | Aerospace + Industrial Engineering | Structure for governance & scale |
-| **Evolution** | Cross-sector fluency | Pattern recognition across industries |
-| **Transformation** | AI ecosystem building | Working agents + frameworks |
-
-The same principles that guided my pivot can help you navigate yours.
-
-**Also available:** [Blog](https://aliciammorgan.com/what-i-built-in-2025-ai-fluency/)
-
----
-
+**"9 Steps: Traditional PM → AI-Fluent Leader"** LinkedIn carousel (Dec 2025) — your Agentic Literacy pathway.[attached_file:1]
 
 ## Why Agentic Workflows?
 
-AI tools can automate repetitive tasks. That's useful but limited. 
-
-Agentic workflows do something different. They embed judgment, context, and structured decision-making into systems that adapt and respond. For traditional organizations navigating transformation, this distinction matters.
-
-**Task automation** handles known processes: scheduling meetings, generating reports, routing approvals.
-
-**Agentic systems** handle ambiguity: evaluating risks across competing priorities, surfacing governance gaps before they become crises, mapping stakeholder influence when roles and relationships shift.
-
-The PM Risk Assessor and future agents in this repository demonstrate this evolution. They don't just execute checklists. They ask the right questions at the right time, informed by patterns from real-world scaling challenges.
-
----
+Traditional PM: **document → meeting → decision**. Agentic: **prompt → validate → deploy → monitor**.  
+**81% plan complex agents 2026** (multi-step/cross-functional).[attached_file:1][web:20]
 
 ## Competitive Advantage: Domain-Specific Judgment at Scale
 
-Most AI workflows in 2026 will handle task automation. This repository demonstrates:
-- **Pre-trained domain logic** from 15+ years cross-industry PM patterns
-- **NIST-aligned governance** baked into prompts (not bolted on later)
-- **Zero-to-agent in <4 hours** using free tiers (Copilot Studio, GitHub, ChatGPT)
-
-**Outcome:** Traditional orgs gain enterprise-grade risk detection while dev teams focus on core product work.
-
-
----
+**Cognitive Fluency**: Understanding AI "thinking"/failures → eliminates technical debt from bad outputs.[attached_file:1]  
+Cross-industry PM (aerospace → healthcare → nonprofits) scales judgment via production agents.
 
 ## 📊 Strategic Foundation: AI WINS Dashboard
 
-The agents in this repository are informed by the **AI WINS Dashboard** - a task-level framework for deciding where to automate, augment, or keep work human-led.
+```
+Workflow → Intelligence → NIST → Scale
+```
 
-Developed from the MasterClass "AI Strategy at Work: How to Become Indispensable," it operationalizes:
-- ~28 hours/week of risk work shifted or streamlined
-- Up to $3.2M+ potential portfolio impact across government IT programs
-- NIST AI RMF–aligned decision criteria
+**2026 Fluency Pillars**:[attached_file:1]
 
-**[View Full Dashboard Methodology →](AI-WINS-Dashboard.md)**
-
-This framework ensures agents are deployed **appropriately**, not maximally - balancing efficiency with accountability.
-
----​​​​​​​​​​​​​​​​
+| Pillar         | What it Means                        | Workflow Impact              |
+|----------------|--------------------------------------|------------------------------|
+| **Cognitive** | How AI "thinks"/where it fails       | Reduces AI technical debt    |
+| **Operational**| Agent "swarms"/chaining              | 10% → 10x gains              |
+| **Ethical**    | Bias/privacy/dark patterns           | EU AI Act/enterprise compliance |
 
 ## 🤖 Agent-First vs API-First: When to Choose
 
-Built low-code first (free Copilot tier, no APIs). Here's why it works for PMs:
+| Use Agent-First When        | Use API-First When           |
+|-----------------------------|------------------------------|
+| Dynamic judgment needed     | Static data processing       |
+| Cross-system orchestration  | Single-tool optimization     |
+| Rapid iteration required    | Production stability         |
+| PM risk assessment          | Transactional volume         |
 
-**✅ Choose Agent-First When:**
-- Need MVP in hours (risk prototypes)
-- Resource-constrained teams  
-- Prove fluency fast (interviews, pilots)
-- Domain-specific scenarios (PMBOK risk)
-
-**🔄 Add APIs Later For:**
-- Enterprise scaling (CRM hooks)
-- Multi-tool orchestration
-- Production RBAC/compliance
-
-*90% PM use cases start here. Scale as needed.*
-
-**Responsible AI Usage:** All agents in this repo follow fiduciary stewardship principles across free/paid/enterprise tiers. [View full governance approach →](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/responsible-ai-usage.md)
-
-
-
----
-
+**47% enterprises use hybrid** (pre-built + custom).[web:21]
 
 ## 🛠️ Active Development
-### **PM Risk Assessor** `/agents/pm-risk-assessor` (Dec 2025)
-Prompt library available now. Identifies governance and execution risks before teams scale analytics or AI systems.  
-**[Use the Prompts →](agents/pm-risk-assessor/prompts/)** | **[Agent Overview](agents/pm-risk-assessor/README.md)** | **[Case Study](agents/pm-risk-assessor/case-vp-stem-data-foundation.md)** | **[See Example](agents/pm-risk-assessor/examples/sample-assessment-stem-museum.md)**
 
-*Status: Prompt Library Available (5 prompts + sample assessment) | Full Agent Q1 2026
+### PM Risk Assessor `/agents/pm-risk-assessor` (Dec 2025)
 
-## Suggested Artifacts 
+**Live Now**: 5 production prompts + STEM museum case study. Identifies governance/execution gaps pre-scaling.  
+**90% enterprises use coding agents** — yours for PM governance.[web:17]
+
+## Suggested Artifacts 🛠️
+
 Enhance PM Risk Assessor in your workflows:
-- **JIRA**: Import prompts as Kanban issues (risk register board) [Artifact Example](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/Portfolio%20Risk%20Dashboard%20Jira.jpg) 
-- **Confluence**: Embed agent outputs + NIST mappings [Artifact Example](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/Confluence%20Portfolio%20Risk%20Dashboard.jpg)
+- **JIRA**: Import prompts as Kanban issues [Artifact Example](artifacts/Portfolio%20Risk%20Dashboard%20Jira.jpg)
+- **Confluence**: Embed outputs + NIST mappings [Artifact Example](artifacts/Confluence%20Portfolio%20Risk%20Dashboard.jpg)
 - **Power BI**: Risk heatmap from CSV exports
-- **GitHub Issues**: Log gaps/customizations (template ready)
+- **GitHub Issues**: Log gaps/customizations
 
 Fork & contribute via Issues.
 
+## 📈 Progress Log: Dec 2025–Jan 2026 (Q1 Agent Deployment Prep)
 
----
+**AI Fluency Foundation → Agentic Literacy + Production Ops**:
+- **Anthropic AI Fluency Course**: Cognitive fluency (prompt engineering for safe agents)
+- **Microsoft Learn AI Fluency Track**: Operational chaining (Azure deployment testing)
+- **AI Strategy at Work Masterclass**: Business value frameworks
+- **NIST AI RMF (LinkedIn)**: Govern/Measure functions operationalized
+- **Advanced AI Governance (LinkedIn)**: Continuous monitoring/controls
+- **AI Coding Agents (GitHub Copilot/Cursor)**: Production workflows
+- **AWS ML Foundations + AI Cloud Essentials**: **Model economics (token burn, cache/latency optimization, capacity forecasting, quota management)**
+- **"The Coming Wave" (book)**: Deployment testing to contain risks
+- **PIV Demo (Jan 3-5 2026)**: Claude/ChatGPT/Perplexity/Gemini financial migration assessment → `/demos/piv-risk-financial-migration/`
+- **LinkedIn Carousels**: "9 Steps PM→AI Leader" + "5 Ways Communicate Value" (2x engagement)
 
+**Solves enterprise blockers**: Integration(**46%**)/Data(**42%**) + cost/capacity controls.
 
-
-## NIST AI RMF–Aligned
-Recently completed the LinkedIn Learning course **Understanding and Implementing the NIST AI Risk Management Framework (RMF)**. I am using its core functions to shape how these agents are structured, evaluated, and governed. As the PM Risk Assessor evolves from secure, anonymous prompt flows into full agents, it will increasingly reference the NIST AI RMF Playbook and NIST Cybersecurity Framework to anchor risk, governance, and monitoring activities across the AI lifecycle.
-
-
----
+**Report Quote**: *"In 2026, you aren't paid for what you do; you are paid for the quality of intelligence you direct."*
 
 ## 🔮 Planned Agents (2026)
 
-### **Change Readiness Diagnostic** `/agents/change-readiness` (Q1 2026)
-Scores organizational maturity against transformation frameworks. Identifies capability gaps before major initiatives.
+**Q1 2026: Deploy 1 Production Agent + Evaluate** (matches **80% ROI reality**)[web:21]
 
-### **Stakeholder Alignment Tool** `/agents/stakeholder-align` (Q1 2026)  
-Maps influence patterns and communication strategies. Surfaces misalignment early in cross-functional programs.
+- ✅ **Change Readiness Diagnostic** `/agents/change-readiness` (**Q1 Priority**: Org transformation focus, live testing)
+- 🔄 **Stakeholder Alignment Tool** `/agents/stakeholder-align` (**Q2+: Post-Q1 evaluation**)
 
----
+*Realistic execution: 1 agent Q1 → NIST Measure → iterate/scale.*
+
+## NIST AI RMF–Aligned ⚖️
+
+**Understanding and Implementing NIST AI RMF (LinkedIn Learning)** → Core functions structure all agents:
+```
+Govern → Map → Measure → Manage
+```
+**Ethical Fluency core** for **2026 compliance** (EU AI Act).
 
 ## 📚 Foundation: Real Execution Experience
 
-These agents are informed by cross-industry program leadership spanning manufacturing, education, and nonprofit sectors:
-
-* **[Raytheon Factory Rearrangement](raytheon-factory-rearrangement)** – $3.2M saved, 30+ capital projects coordinated across operations
-* **[STEM Museum Data Governance](agents/pm-risk-assessor/case-vp-stem-data-foundation.md)** – Scaled from 30K to 45K+ students with governance certifications
-* **[InnovationNet Nonprofit Platform](innovationnet-nonprofit-leadership)** – 10+ programs across 4 organizations
-* **[Strategic Leadership Consulting](strategic-leadership-and-innovation)** – Agile/PMP implementation in traditional sectors
-
-The patterns from these experiences—taxonomy failures, governance gaps, stakeholder misalignment, audit readiness—recur across industries. The agents translate those patterns into practical tools.
-
----
+**13 years Fortune 500/100** (Raytheon, DFW Airport, Healthcare Service Corp) → **Independent AI-PM Consultant**.  
+**Master's Industrial Engineering** + **cross-industry pattern recognition** = agentic workflows that ship across GRC spectrums.
 
 ## 🔗 Related Work
-
-**[Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)**  
-Foundational frameworks for AI transformation in traditional environments. This repository operationalizes those frameworks through working agents.
-
-**Ecosystem signals – Digital Workplace & Tools**  
-GitHub starred lists for **Digital Workplace & Tools, GRC Insights, Agent Skills Building, and Copilot Trainings** show the platforms and governance patterns this lab tracks across modern PM stacks.
-
-
----
+- [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)
+- [LinkedIn: AI Fluency Frameworks](https://www.linkedin.com/in/aliciammorgan1/)
 
 ## 🔍 Topics
-
-`ai-agents` `agentic-workflows` `pm-automation` `data-governance` `execution-gaps` `cross-industry-pm` `innovation-frameworks`  `nist-ai-rmf`
-
----
+```
+ai-agents pm-risk nist-rmf ai-governance deployment-testing agentic-literacy cognitive-fluency operational-fluency ethical-fluency
+```
 
 ## 📄 License
-
-This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially
-
-**Under the following terms:**
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-
-Suggested attribution:  
+CC BY 4.0  
 *"Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)"*
+
+[creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/)
+```
 
 For full license details, visit [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/).
