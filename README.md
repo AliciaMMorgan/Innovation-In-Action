@@ -77,7 +77,7 @@ Fork & contribute via Issues.
 - **Advanced AI Governance (LinkedIn)**: Continuous monitoring/controls
 - **AI Coding Agents (GitHub Copilot/Cursor)**: Production workflows
 - **AWS ML Foundations + AI Cloud Essentials**: **Model economics (token burn, cache/latency optimization, capacity forecasting, quota management)**
-- **"The Coming Wave" (book)**: Deployment testing to contain risks
+- **"The Coming Wave" (book) by Mustafa Suleyman**: Deployment testing to contain risks
 - **PIV Demo (Jan 3-5 2026)**: Claude/ChatGPT/Perplexity/Gemini financial migration assessment → `/demos/piv-risk-financial-migration/`
 - **LinkedIn Carousels**: "9 Steps PM→AI Leader" + "5 Ways Communicate Value" (2x engagement)
 
