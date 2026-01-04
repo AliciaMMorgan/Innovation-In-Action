@@ -7,7 +7,7 @@
 This repository demonstrates **Agentic Literacy** — **Cognitive/Operational/Ethical Fluency** for directing autonomous digital workers across **augment, automate, agent** phases using **4D Framework** (Discover, Design, Deploy, Detect).
 
 **Identifies governance and execution risks before teams scale analytics or AI systems.**<br>
-<strong>[Use the Prompts →]([/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/prompts]))</strong> | <strong>[Agent Overview](/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/README.md)</strong> | <strong>[Case Study](/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/case-vp-stem-data-foundation.md)</strong> | <strong>[See Example](/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/examples/sample-assessment-stem-museum.md)</strong>
+<strong>[Use the Prompts →](agents/pm-risk-assessor/prompts)</strong> | <strong>[Agent Overview](/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/README.md)</strong> | <strong>[Case Study](/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/case-vp-stem-data-foundation.md)</strong> | <strong>[See Example](/AliciaMMorgan/Innovation-In-Action/blob/main/agents/pm-risk-assessor/examples/sample-assessment-stem-museum.md)</strong>
 
 *Status: Prompt Library Available (5 prompts + sample assessment) | Full Agent Q1 2026*
 
