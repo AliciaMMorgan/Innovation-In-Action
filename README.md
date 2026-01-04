@@ -31,7 +31,7 @@ Cross-industry PM (aerospace → healthcare → nonprofits) scales judgment via 
 Workflow → Intelligence → NIST → Scale
 ```
 
-**2026 Fluency Pillars**:[attached_file:1]
+**2026 Fluency Pillars**:
 
 | Pillar         | What it Means                        | Workflow Impact              |
 |----------------|--------------------------------------|------------------------------|
