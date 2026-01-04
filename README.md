@@ -13,7 +13,7 @@ This repository demonstrates **Agentic Literacy** — **Cognitive/Operational/Et
 
 ## 🎯 Featured: 9-Step Career Framework
 
-**"9 Steps: Traditional PM → AI-Fluent Leader"** LinkedIn carousel (Dec 2025) — your Agentic Literacy pathway.[attached_file:1]
+**"9 Steps: Traditional PM → AI-Fluent Leader"** LinkedIn carousel (Dec 2025) — your Agentic Literacy pathway.[[Carousel](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/f13275f6433a79958a741276404134e47b0fcfcf/artifacts/carousel%3A9-steps-traditional-pm-to-ai-fluent-leader.pdf)]
 
 ## Why Agentic Workflows?
 
