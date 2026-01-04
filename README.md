@@ -71,6 +71,7 @@ Fork & contribute via Issues.
 
 **AI Fluency Foundation → Agentic Literacy + Production Ops**:
 - **Anthropic AI Fluency Course**: Cognitive fluency (prompt engineering for safe agents)
+- **Anhtropic How Enterprises are Building AI agents in 2026 Report**: The 2026 State of AI Agents Report 
 - **Microsoft Learn AI Fluency Track**: Operational chaining (Azure deployment testing)
 - **AI Strategy at Work Masterclass**: Business value frameworks
 - **Understanding and Implementing the NIST AI Risk Management Framework(RMF) (LinkedIn)**: Govern/Measure functions operationalized
