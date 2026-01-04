@@ -104,7 +104,7 @@ Govern → Map → Measure → Manage
 
 ## 📚 Foundation: Real Execution Experience
 
-**13 years Fortune 500/100** (Raytheon, DFW Airport, Healthcare Service Corp) → **Independent AI-PM Consultant**.  
+**Fortune 500/100** → **Nonprofit Education and Higher Ed Initiatives** → **Independent AI-PM Consultant**.  
 **Master's Industrial Engineering** + **cross-industry pattern recognition** = agentic workflows that ship across GRC spectrums.
 
 ## 🔗 Related Work
