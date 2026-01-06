@@ -89,7 +89,7 @@ Fork & contribute via Issues.
 - **AI Coding Agents (GitHub Copilot/Cursor) (LinkedIn)**: Production workflows
 - **AWS Machine Learning Basics + AI Cloud Essentials**: **Model economics (token burn, cache/latency optimization, capacity forecasting, quota management)**
 - **"The Coming Wave" (book) by Mustafa Suleyman**: Deployment testing to contain risks
-- **LinkedIn Carousels**: "9 Steps Tranditional PM to → AI Fluent Leader" + "5 Ways to Communicate for Business Value" (2x engagement)
+- **LinkedIn Carousels**: "[9 Steps Tranditional PM to → AI Fluent Leader](https://www.linkedin.com/posts/aliciammorgan1_9-steps-to-ai-fluency-2025-pm-playbook-activity-7409231451830984705-G6hq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABPGXQBtGipWb1QibPB8WA1RxQFkcceROg)" + "[5 Ways to Communicate for Business Value](https://www.linkedin.com/posts/aliciammorgan1_business-value-communication-activity-7412523020440940544-RPIK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABPGXQBtGipWb1QibPB8WA1RxQFkcceROg)" (2x engagement)
 
 **Solves enterprise blockers**: Integration(**46%**)/Data(**42%**) + cost/capacity controls.
 
