@@ -71,7 +71,7 @@ Enhance PM Risk Assessor in your workflows:
 - **JIRA**: Import prompts as Kanban issues [Artifact Example](artifacts/Portfolio%20Risk%20Dashboard%20Jira.jpg)
 - **Confluence**: Embed outputs + NIST mappings [Artifact Example](artifacts/Confluence%20Portfolio%20Risk%20Dashboard.jpg)
 - **Power BI**: Risk heatmap from CSV exports
-- **AWINS Dashboard**: Tool from Masterclass AI Strategy at Work Training [https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/AI_Wins_Dashboard_Senior_Program_Leader.xlsx.pdf]
+- **AWINS Dashboard**: Tool from Masterclass AI Strategy at Work Training [Artifact Example](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/AI_Wins_Dashboard_Senior_Program_Leader.xlsx.pdf)
 - **GitHub Issues**: Log gaps/customizations
 
 Fork & contribute via Issues.
