@@ -89,7 +89,6 @@ Fork & contribute via Issues.
 - **AI Coding Agents (GitHub Copilot/Cursor) (LinkedIn)**: Production workflows
 - **AWS Machine Learning Basics + AI Cloud Essentials**: **Model economics (token burn, cache/latency optimization, capacity forecasting, quota management)**
 - **"The Coming Wave" (book) by Mustafa Suleyman**: Deployment testing to contain risks
-- **PIV Demo (Jan 3-5 2026)**: Claude/ChatGPT/Perplexity/Gemini/Copilot financial migration assessment → `/demos/piv-risk-financial-migration/`
 - **LinkedIn Carousels**: "9 Steps Tranditional PM to → AI Fluent Leader" + "5 Ways to Communicate for Business Value" (2x engagement)
 
 **Solves enterprise blockers**: Integration(**46%**)/Data(**42%**) + cost/capacity controls.
