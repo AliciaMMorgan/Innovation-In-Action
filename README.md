@@ -60,7 +60,7 @@ Workflow → Intelligence → NIST → Scale
 ## PM Risk Assessor: LLM Prompt Benchmarking (Live Demo)
 [![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
 
-- Testing risk prompts on Perplexity, Gemini, Copilot, Claude, ChatGPT
+- Testing risk prompts on Perplexity, Gemini, Copilot, Claude, ChatGPT- [Check out Demo Comparison Table](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/notebooks/ai_tools_risk_assessor_comparison.csvcomparison.csv)
 - Next: Agentic workflows + dashboards for enterprise PMs.
 - **Governance**: [Responsible AI Usage](responsible-ai-usage.md) (fiduciary duty across tools)
 
