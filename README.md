@@ -57,6 +57,14 @@ Workflow → Intelligence → NIST → Scale
 **Live Now**: 5 production prompts + STEM museum case study. Identifies governance/execution gaps pre-scaling.  
 **90% enterprises use coding agents** — yours for PM governance.
 
+**PM Risk Assessor: LLM Prompt Benchmarking (Live Demo)**
+[![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU?si=RJsn8cMeDZQQfatg)
+
+- Testing risk prompts on Perplexity, Gemini, Copilot, Claude, ChatGPT—raw results/rubric in repo [conversation_history:12].
+- Next: Agentic workflows + dashboards for enterprise PMs.
+- **Governance**: [Responsible AI Usage](responsible-ai-usage.md) (fiduciary duty across tools) [memory:15].
+
+
 ## Suggested Artifacts 🛠️
 
 Enhance PM Risk Assessor in your workflows:
