@@ -60,9 +60,9 @@ Workflow → Intelligence → NIST → Scale
 ## PM Risk Assessor: LLM Prompt Benchmarking (Live Demo)
 [![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
 
-- Testing risk prompts on Perplexity, Gemini, Copilot, Claude, ChatGPT—raw results/rubric in repo [conversation_history:12].
+- Testing risk prompts on Perplexity, Gemini, Copilot, Claude, ChatGPT—raw results/rubric in repo
 - Next: Agentic workflows + dashboards for enterprise PMs.
-- **Governance**: [Responsible AI Usage](responsible-ai-usage.md) (fiduciary duty across tools) [memory:15].
+- **Governance**: [Responsible AI Usage](responsible-ai-usage.md) (fiduciary duty across tools)
 
 
 ## Suggested Artifacts 🛠️
@@ -71,6 +71,7 @@ Enhance PM Risk Assessor in your workflows:
 - **JIRA**: Import prompts as Kanban issues [Artifact Example](artifacts/Portfolio%20Risk%20Dashboard%20Jira.jpg)
 - **Confluence**: Embed outputs + NIST mappings [Artifact Example](artifacts/Confluence%20Portfolio%20Risk%20Dashboard.jpg)
 - **Power BI**: Risk heatmap from CSV exports
+- **AWINS Dashboard**: Tool from Masterclass AI Strategy at Work Training [https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/AI_Wins_Dashboard_Senior_Program_Leader.xlsx.pdf]
 - **GitHub Issues**: Log gaps/customizations
 
 Fork & contribute via Issues.
