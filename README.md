@@ -1,5 +1,9 @@
 # Innovation in Action 🎯
 
+## What Problem I Solve 🎯
+PMs and leaders know AI governance risks exist—but lack tools to assess/operationalize before scaling.  
+**I solve this** with working agents and prompts grounded in NIST RMF + cross-industry PM: identify gaps, automate compliance, prove risk reduction.  Fork, deploy, or adapt to de-risk your AI pilots today.
+
 **From frameworks to working agents: Operationalizing cross-industry PM insights through agentic workflows.**
 
 *Anthropic 2026 State of AI Agents Report*: **57% enterprises deploy multi-step agents**; **80% ROI today**.
