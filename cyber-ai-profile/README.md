@@ -1,5 +1,9 @@
 # Cyber AI Profile (NIST IR 8596) 
 
+[![NIST IR 8596](https://img.shields.io/badge/NIST-IR%208596%20iprd-blue?style=for-the-badge&logo=nist&logoColor=white)](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf)[page:1]
+[![CSF 2.0 Profile](https://img.shields.io/badge/CSF%202.0-AI%20Profile-green?style=flat-square&logo=cybersecurity)](https://www.nist.gov/cyberframework)
+[![Comments Open](https://img.shields.io/badge/Comments-Jan%2030%2C%202026-orange?style=flat&logo=feedback)](mailto:cyberaiprofile@nist.gov)
+
 NIST's draft Cybersecurity Framework Profile for AI converges CSF 2.0, AI RMF, and RMF into actionable outcomes for securing AI systems. Open for comments until Jan 30, 2026: [PDF](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf) 
 
 ## Framework Convergence
