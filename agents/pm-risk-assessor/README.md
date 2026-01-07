@@ -1,5 +1,10 @@
 # PM Risk Assessor Agent
 
+[![PM Risk Assessor](https://img.shields.io/badge/PM%20Risk%20Assessor-Prompts%20Live-blue?style=for-the-badge&logo=ai&logoColor=white)](prompts/)
+[![NIST Aligned](https://img.shields.io/badge/NIST-AI%20RMF%20Governance-green?style=flat-square&logo=nist)](https://www.nist.gov/itl/ai-risk-management-framework)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat&logo=creativecommons)](https://creativecommons.org/licenses/by/4.0/)
+
+
 **Status:** Prompt Library Available (Dec 2025) | Full Agent Implementation (Q1 2026)  
 **Purpose:** Identify data governance and execution risks before teams scale analytics, dashboards, or agentic AI systems.
 
