@@ -34,7 +34,7 @@ python risk_assessor.py --project "AI Pilot X"
 
 - `/agents/pm-risk-assessor/` – Core prompts + case studies  
 - `/artifacts/` – JIRA, Confluence, Power BI examples  
-- `/notebooks/` – [Benchmarking data](notebooks/ai_tools_risk_assessor_comparison.csv)  
+- `/notebooks/` – [Benchmarking data](notebooks/ai_tools_risk_assessor_comparison.csvcomparison.csv)  
 - `/cyber-ai-profile/` – NIST RMF mappings  
 
 ## 🎯 Featured: 9-Step Career Framework
