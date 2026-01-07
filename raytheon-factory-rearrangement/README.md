@@ -2,6 +2,11 @@
 
 # 🏭 Innovation in Action: Case Study – Factory Re‑Arrange at Raytheon
 
+[![PMI PMBOK](https://img.shields.io/badge/PMBOK-7%20%26%208-blue?style=for-the-badge&logo=pmi&logoColor=white)](https://www.pmi.org/pmbok-guide-standards)
+[![Capital Projects](https://img.shields.io/badge/Capital%20Projects-\$15M%2B-green?style=flat-square&logo=dollar)](https://github.com/AliciaMMorgan)
+[![Creative Commons](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat&logo=creativecommons)](https://creativecommons.org/licenses/by/4.0/)
+
+
 ## 👩🏽‍💼 Strategic Role: Sole Capital Projects Leader for CCA Department
 
 As the **sole department lead responsible for all capital projects from 2007-2013**, I directly led and executed **30+ capital improvement and technology projects annually**, totaling over **\$15 million in value**. I owned the **end-to-end technical, financial, and strategic lifecycle** of projects—from concept and business case development through **execution, closeout, and value realization**.
