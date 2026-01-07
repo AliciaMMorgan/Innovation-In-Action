@@ -75,7 +75,7 @@ Workflow → Intelligence → NIST → Scale
 **Live Now**: 5 production prompts + STEM museum case study. Identifies governance/execution gaps pre-scaling.  
 [![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
 
-- [Demo Comparison Table](notebooks/ai_tools_risk_assessor_comparison.csv)
+- [Demo Comparison Table](notebooks/ai_tools_risk_assessor_comparison.csvcomparison.csv)
 - **Governance**: [Responsible AI Usage](responsible-ai-usage.md)
 
 ## Suggested Artifacts
