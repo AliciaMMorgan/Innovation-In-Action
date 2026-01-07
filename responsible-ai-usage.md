@@ -1,5 +1,10 @@
 # Responsible AI Usage: Fiduciary Duty Across All Tools
 
+[![NIST AI RMF](https://img.shields.io/badge/NIST-AI%20RMF%20Govern-blueviolet?style=for-the-badge&logo=nist&logoColor=white)](https://www.nist.gov/itl/ai-risk-management-framework)
+[![Responsible AI](https://img.shields.io/badge/Responsible_AI-Fiduciary%20Duty-orange?style=flat-square&logo=ResponsibleAI)](https://github.com/microsoft/responsible-ai-for-teams)
+[![PMBOK 8](https://img.shields.io/badge/PMBOK-8%20Aligned-green?style=flat&logo=pmi&logoColor=white)](https://www.pmi.org/pmbok-guide-standards)
+
+
 Fiduciary responsibility applies to **all** AI tools—GitHub Copilot, ChatGPT, Claude, Gemini, Perplexity, Grok, paid subscriptions, APIs, everything—free tiers demand the same stewardship as enterprise budgets. Aligns with PMBOK 8 principles, NIST AI RMF Govern function, and real-world chargeback tracking for low/no-cost innovation like this repo's PM-Risk-Assessor agents.
 
 ## Why Constraints Drive Innovation
