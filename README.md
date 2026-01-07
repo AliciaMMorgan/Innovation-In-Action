@@ -1,8 +1,8 @@
 # Innovation in Action 🎯
 
-## What Problem I Solve 🎯
-PMs and leaders know AI governance risks exist—but lack tools to assess/operationalize before scaling.  
-**I solve this** with working agents and prompts grounded in NIST RMF + cross-industry PM: identify gaps, automate compliance, prove risk reduction.  Fork, deploy, or adapt to de-risk your AI pilots today.
+[![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://python.org)
+[![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
+[![PM Risk Assessor](https://img.shields.io/badge/PM%20Risk%20Assessor-v1.0-green)](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor)
 
 **From frameworks to working agents: Operationalizing cross-industry PM insights through agentic workflows.**
 
@@ -10,127 +10,115 @@ PMs and leaders know AI governance risks exist—but lack tools to assess/operat
 
 This repository demonstrates **Agentic Literacy** — **Cognitive/Operational/Ethical Fluency** for directing autonomous digital workers across **augment, automate, agent** phases using **4D Framework** (Discover, Design, Deploy, Detect).
 
-**Identifies governance and execution risks before teams scale analytics or AI systems.**<br>
-<strong>[Use the Prompts →](agents/pm-risk-assessor/prompts)</strong> | <strong>[Agent Overview →](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor) </strong> | <strong>[Case Study](agents/pm-risk-assessor/case-vp-stem-data-foundation.md)</strong> | <strong>[See Example](agents/pm-risk-assessor/examples/sample-assessment-stem-museum.md)</strong>
+**Identifies governance and execution risks before teams scale analytics or AI systems.**
+
+## What Problem I Solve 🎯
+
+PMs and leaders know AI governance risks exist—but lack tools to assess/operationalize before scaling.  
+**I solve this** with working agents and prompts grounded in NIST RMF + cross-industry PM: identify gaps, automate compliance, prove risk reduction.  
+Fork, deploy, or adapt to de-risk your AI pilots today.
+
+<strong>[Use the Prompts →](agents/pm-risk-assessor/prompts)</strong> | <strong>[Agent Overview →](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor)</strong> | <strong>[Case Study](agents/pm-risk-assessor/case-vp-stem-data-foundation.md)</strong> | <strong>[See Example](agents/pm-risk-assessor/examples/sample-assessment-stem-museum.md)</strong>
 
 *Status: Prompt Library Available (5 prompts + sample assessment) | Full Agent Q1 2026*
 
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/AliciaMMorgan/Innovation-In-Action.git
+cd Innovation-In-Action/agents/pm-risk-assessor
+python risk_assessor.py --project "AI Pilot X"
+```
+
+## 📁 Repository Structure
+
+- `/agents/pm-risk-assessor/` – Core prompts + case studies  
+- `/artifacts/` – JIRA, Confluence, Power BI examples  
+- `/notebooks/` – [Benchmarking data](notebooks/ai_tools_risk_assessor_comparison.csv)  
+- `/cyber-ai-profile/` – NIST RMF mappings  
+
 ## 🎯 Featured: 9-Step Career Framework
 
-**"9 Steps: Traditional PM → AI-Fluent Leader"** LinkedIn carousel (Dec 2025) — your Agentic Literacy pathway.[[Carousel Here](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/f13275f6433a79958a741276404134e47b0fcfcf/artifacts/carousel%3A9-steps-traditional-pm-to-ai-fluent-leader.pdf)]
+**"9 Steps: Traditional PM → AI-Fluent Leader"** LinkedIn carousel (Dec 2025).  
+[🔗 View Carousel](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/carousel%3A9-steps-traditional-pm-to-ai-fluent-leader.pdf)
 
 ## Why Agentic Workflows?
 
 Traditional PM: **document → meeting → decision**. Agentic: **prompt → validate → deploy → monitor**.  
 **81% plan complex agents 2026** (multi-step/cross-functional).
 
-## Competitive Advantage: Domain-Specific Judgment at Scale
-
-**Cognitive Fluency**: Understanding AI "thinking"/failures → eliminates technical debt from bad outputs. 
-Cross-industry PM (aerospace → healthcare → nonprofits) scales judgment via production agents.
-
-## 📊 Strategic Foundation: AI WINS Dashboard
+## AI WINS Dashboard
 
 ```
 Workflow → Intelligence → NIST → Scale
 ```
 
-**2026 Fluency Pillars**:
+| Pillar | What it Means | Workflow Impact |
+|--------|---------------|-----------------|
+| **Cognitive** | How AI "thinks"/where it fails | Reduces AI technical debt |
+| **Operational** | Agent "swarms"/chaining | 10% → 10x gains |
+| **Ethical** | Bias/privacy/dark patterns | EU AI Act compliance |
 
-| Pillar         | What it Means                        | Workflow Impact              |
-|----------------|--------------------------------------|------------------------------|
-| **Cognitive** | How AI "thinks"/where it fails       | Reduces AI technical debt    |
-| **Operational**| Agent "swarms"/chaining              | 10% → 10x gains              |
-| **Ethical**    | Bias/privacy/dark patterns           | EU AI Act/enterprise compliance |
+## 🤖 Agent-First vs API-First
 
-## 🤖 Agent-First vs API-First: When to Choose
+| Use Agent-First When | Use API-First When |
+|---------------------|-------------------|
+| Dynamic judgment needed | Static data processing |
+| Cross-system orchestration | Single-tool optimization |
+| Rapid iteration required | Production stability |
+| PM risk assessment | Transactional volume |
 
-| Use Agent-First When        | Use API-First When           |
-|-----------------------------|------------------------------|
-| Dynamic judgment needed     | Static data processing       |
-| Cross-system orchestration  | Single-tool optimization     |
-| Rapid iteration required    | Production stability         |
-| PM risk assessment          | Transactional volume         |
+**47% enterprises use hybrid.**
 
-**47% enterprises use hybrid** (pre-built + custom).[web:21]
-
-## 🛠️ Active Development
-
-### PM Risk Assessor `/agents/pm-risk-assessor` (Dec 2025)
+## 🛠️ Active Development: PM Risk Assessor
 
 **Live Now**: 5 production prompts + STEM museum case study. Identifies governance/execution gaps pre-scaling.  
-**90% enterprises use coding agents** — yours for PM governance.
-
-## PM Risk Assessor: LLM Prompt Benchmarking (Live Demo)
 [![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
 
-- Testing risk prompts on Perplexity, Gemini, Copilot, Claude, ChatGPT- [Check out Demo Comparison Table](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/notebooks/ai_tools_risk_assessor_comparison.csvcomparison.csv)
-- Next: Agentic workflows + dashboards for enterprise PMs.
-- **Governance**: [Responsible AI Usage](responsible-ai-usage.md) (fiduciary duty across tools)
+- [Demo Comparison Table](notebooks/ai_tools_risk_assessor_comparison.csv)
+- **Governance**: [Responsible AI Usage](responsible-ai-usage.md)
 
+## Suggested Artifacts
 
-## Suggested Artifacts 🛠️
-
-Enhance PM Risk Assessor in your workflows:
-- **JIRA**: Import prompts as Kanban issues [Artifact Example](artifacts/Portfolio%20Risk%20Dashboard%20Jira.jpg)
-- **Confluence**: Embed outputs + NIST mappings [Artifact Example](artifacts/Confluence%20Portfolio%20Risk%20Dashboard.jpg)
+- **JIRA**: Import prompts as Kanban issues 
+- **Confluence**: Embed outputs + NIST mappings
 - **Power BI**: Risk heatmap from CSV exports
-- **AWINS Dashboard**: Tool from Masterclass AI Strategy at Work Training [Artifact Example](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/AI_Wins_Dashboard_Senior_Program_Leader.xlsx.pdf)
+- **AI WINS Dashboard**: [Excel template](artifacts/AI_Wins_Dashboard_Senior_Program_Leader.xlsx)
 - **GitHub Issues**: Log gaps/customizations
 
-Fork & contribute via Issues.
+## 📈 Progress Log: Dec 2025–Jan 2026
 
-## 📈 Progress Log: Dec 2025–Jan 2026 (Q1 Agent Deployment Prep)
+**Research → Production Agents:**
+- **Anthropic AI Fluency + 2026 Agents Report**: Prompt engineering, 57% deployment/80% ROI
+- **Microsoft Learn + AWS ML Essentials**: Operational chaining, token economics, capacity forecasting
+- **NIST AI RMF (LinkedIn Learning) + ISO 42001**: Govern/Measure functions, continuous monitoring
+- **"The Coming Wave" + Carousels**: Deployment risk containment, 9-Steps (2x engagement)
 
-**AI Fluency Foundation → Agentic Literacy + Production Ops**:
-- **Anthropic AI Fluency Course**: Cognitive fluency (prompt engineering for safe agents)
-- **Anthropic How Enterprises are Building AI agents in 2026 Report**: The 2026 State of AI Agents Report 
-- **Microsoft Learn AI Fluency Track**: Operational chaining (Azure deployment testing)
-- **AI Strategy at Work Masterclass**: Business value frameworks
-- **Understanding and Implementing the NIST AI Risk Management Framework(RMF) (LinkedIn)**: Govern/Measure functions operationalized
-- **Advanced AI Governance: Operationalizing AI Controls and Continuous Monitoring (LinkedIn)**: Continuous monitoring/controls
-- **Familiarization with ISO 27001 and ISO 42001**: Regulatory Frameworks for AI Governance and Information Security Controls
-- **AI Coding Agents (GitHub Copilot/Cursor) (LinkedIn)**: Production workflows
-- **AWS Machine Learning Basics + AI Cloud Essentials**: **Model economics (token burn, cache/latency optimization, capacity forecasting, quota management)**
-- **"The Coming Wave" (book) by Mustafa Suleyman**: Deployment testing to contain risks
-- **LinkedIn Carousels**: "[9 Steps Tranditional PM to → AI Fluent Leader](https://www.linkedin.com/posts/aliciammorgan1_9-steps-to-ai-fluency-2025-pm-playbook-activity-7409231451830984705-G6hq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABPGXQBtGipWb1QibPB8WA1RxQFkcceROg)" + "[5 Ways to Communicate for Business Value](https://www.linkedin.com/posts/aliciammorgan1_business-value-communication-activity-7412523020440940544-RPIK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABPGXQBtGipWb1QibPB8WA1RxQFkcceROg)" (2x engagement)
-
-**Solves enterprise blockers**: Integration(**46%**)/Data(**42%**) + cost/capacity controls.
+*Solves enterprise blockers: Integration(46%)/Data(42%) + cost/capacity controls.*
 
 **Report Quote**: *"In 2026, you aren't paid for what you do; you are paid for the quality of intelligence you direct."*
 
 ## 🔮 Planned Agents (2026)
 
-**Q1 2026: Deploy 1 Production Agent + Evaluate** (matches **80% ROI reality**)
-
-- ✅ **Change Readiness Diagnostic** `/agents/change-readiness` (**Q1 Priority**: Org transformation focus, live testing)
-- 🔄 **Stakeholder Alignment Tool** `/agents/stakeholder-align` (**Q2+: Post-Q1 evaluation**)
-
-*Realistic execution: 1 agent Q1 → NIST Measure → iterate/scale.*
+**Q1 2026**: Deploy 1 Production Agent + Evaluate
+- ✅ **Change Readiness Diagnostic** `/agents/change-readiness`
+- 🔄 **Stakeholder Alignment Tool** `/agents/stakeholder-align`
 
 ## NIST AI RMF–Aligned ⚖️
 
-**Understanding and Implementing NIST AI RMF (LinkedIn Learning)** → Core functions structure all agents:
 ```
 Govern → Map → Measure → Manage
 ```
-**[Cyber AI Profile (IR 8596)](cyber-ai-profile/)** – CSF mappings for Secure/Defend/Thwart pillars.
+**[Cyber AI Profile (IR 8596)](cyber-ai-profile/)** – CSF mappings for Secure/Defend/Thwart.
 
-**Ethical Fluency core** for **2026 compliance** - [[EU AI Act](https://artificialintelligenceact.eu/high-level-summary/)]
+## 📚 Foundation
 
-## 📚 Foundation: Real Execution Experience
-
-**Fortune 500/100** → **Nonprofit Education and Higher Ed Initiatives** → **Independent AI-PM Consultant**.  
-**Master's Industrial Engineering** + **cross-industry pattern recognition** = agentic workflows that ship across GRC spectrums.
+**Fortune 500/100 → Nonprofit → Independent AI-PM Consultant.**  
+**Master's Industrial Engineering** + cross-industry execution = agentic workflows that ship.
 
 ## 🔗 Related Work
 - [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)
-- [LinkedIn: Connect with Me](https://www.linkedin.com/in/aliciammorgan1/)
-
-## 🔍 Topics
-```
-ai-agents pm-risk nist-rmf ai-governance deployment-testing agentic-literacy cognitive-fluency operational-fluency ethical-fluency
-```
+- [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/)
 
 ## 📄 License
 CC BY 4.0  
@@ -139,4 +127,3 @@ CC BY 4.0
 [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/)
 ```
 
-For full license details, visit [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/).
