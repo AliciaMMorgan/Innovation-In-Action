@@ -1,5 +1,9 @@
 # AI WINS Dashboard: From Strategy to Execution
 
+[![NIST AI RMF](https://img.shields.io/badge/NIST-AI%20RMF%20Aligned-blueviolet?style=for-the-badge&logo=nist&logoColor=white)](https://www.nist.gov/itl/ai-risk-management-framework)
+[![AI Governance](https://img.shields.io/badge/Governance-NIST%20Playbook-orange?style=flat-square&logo=nist)](https://airc.nist.gov/airmf-resources/playbook/)
+
+
 ## Origin and Context
 
 The AI WINS dashboard was developed as a practical output of the **MasterClass “AI Strategy at Work: How to Become Indispensable”** and then applied to the Innovation‑In‑Action PM Risk Assessor.  
