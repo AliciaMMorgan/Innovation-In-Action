@@ -83,7 +83,7 @@ Workflow → Intelligence → NIST → Scale
 - **JIRA**: Import prompts as Kanban issues 
 - **Confluence**: Embed outputs + NIST mappings
 - **Power BI**: Risk heatmap from CSV exports
-- **AI WINS Dashboard**: [Excel template](artifacts/AI_Wins_Dashboard_Senior_Program_Leader.xlsx)
+- **AI WINS Dashboard**: [Excel template](artifacts/AI_Wins_Dashboard_Senior_Business_Analyst.xlsx)
 - **GitHub Issues**: Log gaps/customizations
 
 ## 📈 Progress Log: Dec 2025–Jan 2026
