@@ -1,5 +1,10 @@
 # 📊 Strategic Leadership & Innovation Consulting Case Study
 
+[![PMP Certified](https://img.shields.io/badge/PMP-Certified%202022-blue?style=for-the-badge&logo=pmi&logoColor=white)](https://www.pmi.org/certifications/project-management-pmp)
+[![CNM Accredited](https://img.shields.io/badge/CNM-Certified%202020-green?style=flat-square&logo=cnm)](https://cnmconnect.com/)
+[![Creative Commons](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat&logo=creativecommons)](https://creativecommons.org/licenses/by/4.0/)
+
+
 **Overview**  
 This case study explores my journey from executive nonprofit leadership to innovation consulting, demonstrating how structured transformation, community-centered program development, and agile methodology converged to drive impact at scale.
 
