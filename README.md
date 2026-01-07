@@ -110,6 +110,8 @@ Fork & contribute via Issues.
 ```
 Govern → Map → Measure → Manage
 ```
+**[Cyber AI Profile (IR 8596)](cyber-ai-profile/)** – CSF mappings for Secure/Defend/Thwart pillars.
+
 **Ethical Fluency core** for **2026 compliance** (EU AI Act).
 
 ## 📚 Foundation: Real Execution Experience
