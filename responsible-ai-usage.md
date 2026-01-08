@@ -1,7 +1,7 @@
 # Responsible AI Usage: Fiduciary Duty Across All Tools
 
 [![NIST AI RMF](https://img.shields.io/badge/NIST-AI%20RMF%20Govern-blueviolet?style=for-the-badge&logo=nist&logoColor=white)](https://www.nist.gov/itl/ai-risk-management-framework)
-[![Responsible AI](https://img.shields.io/badge/Responsible_AI-Fiduciary%20Duty-orange?style=flat-square&logo=ResponsibleAI)](https://github.com/microsoft/responsible-ai-for-teams)
+[![Responsible AI](https://img.shields.io/badge/Responsible_AI-Fiduciary%20Duty-orange?style=flat-square&logo=ResponsibleAI)](https://github.com/microsoft/responsible-ai-toolbox)
 [![PMBOK 8](https://img.shields.io/badge/PMBOK-8%20Aligned-green?style=flat&logo=pmi&logoColor=white)](https://www.pmi.org/pmbok-guide-standards)
 
 
