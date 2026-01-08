@@ -14,7 +14,7 @@
 
 **2019 Advocate Honoree** – VP Education, Frontiers of Flight Museum (STEM for 45K+ students); foundation for AI governance execution here.
 
-
+---
 **From frameworks to working agents: Operationalizing cross-industry PM insights through agentic workflows.**
 
 *Anthropic 2026 State of AI Agents Report*: **57% enterprises deploy multi-step agents**; **80% ROI today**.
