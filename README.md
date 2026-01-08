@@ -6,8 +6,9 @@
 
 [![Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
 [![Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)  
+**Momentum: 107 unique cloners, 82 README views (14d)** [Traffic →][![Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
+[![Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)  
 **Momentum: 107 unique cloners, 82 README views (14d)** [Traffic →](https://github.com/AliciaMMorgan/Innovation-In-Action/pulse)
-
 
 **From frameworks to working agents: Operationalizing cross-industry PM insights through agentic workflows.**
 
