@@ -4,10 +4,10 @@
 [![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
 [![PM Risk Assessor](https://img.shields.io/badge/PM%20Risk%20Assessor-v1.0-green)](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor)
 
-[![Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
-[![Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)  
-**Momentum: 107 unique cloners, 82 README views (14d)**  
-[![Traffic](https://img.shields.io/badge/Views%20561-brightgreen?style=flat&logo=github)](https://github.com/AliciaMMorgan/Innovation-In-Action/graphs/traffic)
+[![Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social&logo=github)](https://github.com/AliciaMMorgan/Innovation-In-Action)
+[![Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social&logo=github)](https://github.com/AliciaMMorgan/Innovation-In-Action)
+[![Traffic](https://img.shields.io/badge/Traffic-Insights-brightgreen?logo=github&link=https://github.com/AliciaMMorgan/Innovation-In-Action/graphs/traffic)](https://github.com/AliciaMMorgan/Innovation-In-Action/graphs/traffic)
+
 
 **From frameworks to working agents: Operationalizing cross-industry PM insights through agentic workflows.**
 
