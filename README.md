@@ -6,7 +6,9 @@
 
 [![Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
 [![Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)  
-**Momentum: 107 unique cloners, 82 README views (14d)** [Traffic →][![Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)
+**Momentum: 107 unique cloners, 82 README views (14d)**  
+[![Traffic](https://img.shields.io/badge/Views%20561-brightgreen?style=flat&logo=github)](https://github.com/AliciaMMorgan/Innovation-In-Action/graphs/traffic)
+
 [![Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social)](https://github.com/AliciaMMorgan/Innovation-In-Action)  
 **Momentum: 107 unique cloners, 82 README views (14d)** [Traffic →](https://github.com/AliciaMMorgan/Innovation-In-Action/pulse)
 
