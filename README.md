@@ -106,7 +106,7 @@ Workflow → Intelligence → NIST → Scale
 
 ## NIST AI RMF–Aligned ⚖️
 
-[![AWS ML](https://img.shields.io/badge/AWS%20ML-brightgreen?logo=aws)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/) [![AI Strategy](https://img.shields.io/badge/AI%20Strategy-orange?logo=masterclass)](https://www.masterclass.com/classes/ai-strategy-at-work)[![MS AI Fluency](https://img.shields.io/badge/Microsoft%20AI%20Fluency-Completed-blue?logo=microsoft&logoColor=white)][(https://learn.microsoft.com/en-us/users/aliciamorgan-8584/achievements)](https://learn.microsoft.com/en-us/users/aliciamorgan-8584/achievements/ypdwe28r?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+[![AWS ML](https://img.shields.io/badge/AWS%20ML-brightgreen?logo=aws)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/) [![AI Strategy](https://img.shields.io/badge/AI%20Strategy-orange?logo=masterclass)](https://www.masterclass.com/classes/ai-strategy-at-work)[![MS AI Fluency](https://img.shields.io/badge/Microsoft%20AI%20Fluency-Completed-blue?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/aliciamorgan-8584/achievements/ypdwe28r?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 
 
