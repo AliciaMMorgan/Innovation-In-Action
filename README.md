@@ -11,7 +11,7 @@
 ---
 [![DBJ Women in Tech](https://img.shields.io/badge/DBJ-Women%20in%20Technology-blueviolet?style=flat-square&logo=business-journal)](https://www.bizjournals.com/dallas/news/2019/05/14/alicia-morgan-2019-women-in-technology.html)
 
-**2019 Advocate Honoree** – VP Education, Frontiers of Flight Museum (45K+ students); STEM Education roots powering these agents.
+**2019 Advocate Honoree** – VP Education and Programs, Frontiers of Flight Museum (45K+ students); STEM Education roots powering these agents.
 
 ---
 **From frameworks to working agents: Operationalizing cross-industry PM insights through agentic workflows.**
