@@ -45,7 +45,7 @@ python risk_assessor.py --project "AI Pilot X"
 
 - `/agents/pm-risk-assessor/` – Core prompts + case studies  
 - `/artifacts/` – JIRA, Confluence, Power BI examples  
-- `/notebooks/` – [Benchmarking data](notebooks/ai_tools_risk_assessor_comparison.csvcomparison.csv)  
+- `/notebooks/` – [Benchmarking data](notebooks/ai_tools_risk_assessor_comparison.csv)  
 - `/cyber-ai-profile/` – NIST RMF mappings  
 
 ## 🎯 Featured: 9-Step Career Framework
@@ -83,10 +83,11 @@ Workflow → Intelligence → NIST → Scale
 
 ## 🛠️ Active Development: PM Risk Assessor
 
-**Live Now**: 5 production prompts + STEM museum case study. Identifies governance/execution gaps pre-scaling.  
+**Live Now**: 5 production prompts + STEM case study (**prompts seed all agents**).  
+**Jan 10, 2026**: Completed Foundry Fast Track (4 days). **Azure Foundry → PM Fluency Agent Challenge** live (credits → Feb ship).  
 [![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
 
-- [Demo Comparison Table](notebooks/ai_tools_risk_assessor_comparison.csvcomparison.csv)
+- **[Use the Prompts →](agents/pm-risk-assessor/prompts)** | Quarterly agents extension
 - **Governance**: [Responsible AI Usage](responsible-ai-usage.md)
 
 ## Suggested Artifacts
@@ -111,9 +112,19 @@ Workflow → Intelligence → NIST → Scale
 
 ## 🔮 Planned Agents (2026)
 
-**Q1 2026**: Deploy 1 Production Agent + Evaluate
-- ✅ **Change Readiness Diagnostic** `/agents/change-readiness`
-- 🔄 **Stakeholder Alignment Tool** `/agents/stakeholder-align`
+**Quarterly rollout** (1/quarter post-Foundry for refinement/training):
+- **Q1 Feb**: **PM Playbook Agent** `/agents/pm-playbook` (9-steps + prompts)
+- **Q2**: **Risk Guardrails Agent** `/agents/risk-guardrails` (NIST extension)
+- **Q3**: **Stakeholder Alignment** `/agents/stakeholder-align` (cross-energy)
+- **Q4**: **Change Readiness** `/agents/change-readiness` (swarm)
+
+## 🔄 Iteration Log
+
+**Jan 10, 2026** (post-Foundry): Quarterly vs original Q1 batch.  
+**Original Plan**: Q1 deploy 4 agents.  
+**Updated**: 1/quarter → deeper prompts/training (Dallas AI class?). Credits force Feb ship.  
+Cloners: Prompts unchanged. [Commits](https://github.com/AliciaMMorgan/Innovation-In-Action/commits/main) | [Issues](https://github.com/AliciaMMorgan/Innovation-In-Action/issues)
+
 
 ## NIST AI RMF–Aligned ⚖️
 
