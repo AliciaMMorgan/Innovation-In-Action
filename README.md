@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://python.org)
 [![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
 [![PM Risk Assessor](https://img.shields.io/badge/PM%20Risk%20Assessor-v1.0-green)](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor)
+[![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-Fast%20Track-blue?logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/AliciaMorgan-8584/37EZ9KQH?sharingId=AF5CC38D9654C25C)
 
 [![Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social&logo=github)](https://github.com/AliciaMMorgan/Innovation-In-Action)
 [![Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social&logo=github)](https://github.com/AliciaMMorgan/Innovation-In-Action)
