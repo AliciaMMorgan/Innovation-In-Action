@@ -84,7 +84,8 @@ Workflow → Intelligence → NIST → Scale
 ## 🛠️ Active Development: PM Risk Assessor
 
 **Live Now**: 5 production prompts + STEM case study (**prompts seed all agents**).  
-**Jan 10, 2026**: Completed Foundry Fast Track (4 days). **Azure Foundry → PM Fluency Agent Challenge** live (credits → Feb ship).  
+**Jan 10, 2026**: Completed Foundry Fast Track (4 days). **Azure Foundry → PM Fluency Agent Challenge** live (credits → Feb ship). 
+
 [![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
 
 - **[Use the Prompts →](agents/pm-risk-assessor/prompts)** | Quarterly agents extension
