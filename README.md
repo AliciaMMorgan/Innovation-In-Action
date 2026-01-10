@@ -123,7 +123,7 @@ Workflow → Intelligence → NIST → Scale
 
 **Jan 10, 2026** (post-Foundry): Quarterly vs original Q1 batch.  
 **Original Plan**: Q1 deploy 4 agents.  
-**Updated**: 1/quarter → deeper prompts/training (Dallas AI class?). Credits force Feb ship.  
+**Updated**: 1/quarter → deeper prompts/training (Dallas AI Agent classes). Microsoft Azure Credits force Feb ship.  
 Cloners: Prompts unchanged. [Commits](https://github.com/AliciaMMorgan/Innovation-In-Action/commits/main) | [Issues](https://github.com/AliciaMMorgan/Innovation-In-Action/issues)
 
 
