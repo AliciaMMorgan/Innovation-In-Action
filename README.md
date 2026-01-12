@@ -148,9 +148,9 @@ Govern → Map → Measure → Manage
 - [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/)
 
 ## 📄 License
-CC BY 4.0  
+MIT  
 *"Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)"*
 
-[creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ```
 
