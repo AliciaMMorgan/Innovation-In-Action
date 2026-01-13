@@ -143,7 +143,8 @@ Cloners: Prompts unchanged. [Commits](https://github.com/AliciaMMorgan/Innovatio
 
 
 ```
-**Govern → Map → Measure → Manage**
+**Govern → Map → Measure →
+Manage**
 ```
 **[Cyber AI Profile (IR 8596)](cyber-ai-profile/)** – CSF mappings for Secure/Defend/Thwart.
 
