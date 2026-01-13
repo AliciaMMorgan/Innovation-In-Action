@@ -19,12 +19,11 @@
 
 *Anthropic 2026 State of AI Agents Report*: **57% enterprises deploy multi-step agents**; **80% ROI today**.
 
-This repository demonstrates **Agentic Literacy** — **Cognitive/Operational/Ethical Fluency** for directing autonomous digital workers across **augment, automate, agent** phases using **4D Framework** (Discover, Design, Deploy, Detect).
+This repository demonstrates **Agentic Literacy** **Cognitive/Operational/Ethical Fluency** for directing autonomous digital workers across **augment, automate, agent** phases using **4D Framework** (Discover, Design, Deploy, Detect).
 
 **Identifies governance and execution risks before teams scale analytics or AI systems.**
 
 Before diving into the case studies, the following framework explains how I lead transformation work inside existing enterprise and education ecosystems, includinghow platform choices, governance, security, and AI adoption shape real-world implementation.
-
 📘**Cross-Ecosystem Operating Model** [Read the framework →](frameworks/cross-ecosystem-operating-model.md)
 
 ---
