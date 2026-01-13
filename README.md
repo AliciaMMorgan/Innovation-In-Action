@@ -23,6 +23,17 @@ This repository demonstrates **Agentic Literacy** — **Cognitive/Operational/Et
 
 **Identifies governance and execution risks before teams scale analytics or AI systems.**
 
+# Innovation in Action
+
+[Short intro paragraph]
+
+Before diving into the case studies, the following framework explains how I lead transformation work inside existing enterprise and education ecosystems, including how platform choices, governance, security, and AI adoption shape real-world implementation.
+
+📘 **Cross-Ecosystem Operating Model**  
+[Read the framework →](frameworks/cross-ecosystem-operating-model.md)
+
+---
+
 ## What Problem I Solve 🎯
 
 PMs and leaders know AI governance risks exist—but lack tools to assess/operationalize before scaling.  
