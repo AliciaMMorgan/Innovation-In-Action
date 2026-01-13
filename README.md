@@ -23,7 +23,9 @@ This repository demonstrates **Agentic Literacy** **Cognitive/Operational/Ethica
 
 **Identifies governance and execution risks before teams scale analytics or AI systems.**
 
-Before the case studies, this framework outlines how I lead transformation work inside existing enterprise and education ecosystems.📘**Cross-Ecosystem Operating Model** 
+Before the case studies, this framework outlines how I lead transformation work inside existing enterprise and education ecosystems.
+
+📘 **Cross-Ecosystem Operating Model**  
 [Read the framework →](frameworks/cross-ecosystem-operating-model.md)
 
 ---
