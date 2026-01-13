@@ -55,6 +55,7 @@ This role deepened my understanding of **informal learning environments** and ho
 
 **Responsibilities:**
 
+* Operated within **Google Workspace**-based education ecosystems, designing shared research libraries, co-authored documents, and stakeholder-facing resources aligned to how educators and institutions actually work.
 * Conducted extensive **user research**, workforce interviews, and pathway analysis.
 * Created structured databases of **career pathways, certifications, and educational resources**.
 * Developed **research-based user stories** to guide design, content, and development priorities.
