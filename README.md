@@ -123,7 +123,14 @@ Workflow → Intelligence → NIST → Scale
 ## 🔮 Planned Agents (2026)
 
 **Quarterly rollout** (1/quarter post-Foundry for refinement/training):
-- **Q1 Feb**: **PM Playbook Agent** `/agents/pm-playbook` (9-steps + prompts)
+
+- **Q1 2026 — Cross-Industry AI Agent Prototype**((9-steps + prompts)
+I built and validated a Microsoft Azure AI Foundry agent that encodes my Cross-Industry PM AI Fluency framework into stage-aware guidance for project and program managers navigating AI adoption. 
+Version 1 proved that cross-industry PM pattern recognition can be translated into consistent, context-sensitive agent behavior that helps teams clarify the adoption stage, translate AI activity into business value, and introduce governance at the right time.
+
+→ **View full Q1 Agent Breakdown**  
+[ai-agent-q1-2026/README.md](./ai-agent-q1-2026/README.md)
+
 - **Q2**: **Risk Guardrails Agent** `/agents/risk-guardrails` (NIST extension)
 - **Q3**: **Stakeholder Alignment** `/agents/stakeholder-align` (cross-energy)
 - **Q4**: **Change Readiness** `/agents/change-readiness` (swarm)
