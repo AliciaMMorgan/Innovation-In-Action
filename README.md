@@ -125,7 +125,7 @@ Workflow → Intelligence → NIST → Scale
 **Quarterly rollout** (1/quarter post-Foundry for refinement/training):
 
 - **Q1 2026 — Cross-Industry AI Agent Prototype**((9-steps + prompts)
-I built and validated a Microsoft Azure AI Foundry agent that encodes my Cross-Industry PM AI Fluency framework into stage-aware guidance for project and program managers navigating AI adoption. 
+I built and validated a Microsoft Foundry agent that encodes my Cross-Industry PM AI Fluency framework into stage-aware guidance for project and program managers navigating AI adoption. 
 Version 1 proved that cross-industry PM pattern recognition can be translated into consistent, context-sensitive agent behavior that helps teams clarify the adoption stage, translate AI activity into business value, and introduce governance at the right time.
 
 → **View full Q1 Agent Breakdown**  
