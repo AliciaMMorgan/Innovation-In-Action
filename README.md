@@ -139,7 +139,7 @@ Version 1 proved that cross-industry PM pattern recognition can be translated in
 
 **Jan 10, 2026** (post-Foundry): Quarterly vs original Q1 batch.  
 **Original Plan**: Q1 deploy 4 agents.  
-**Updated**: 1/quarter → deeper prompts/training (Dallas AI Agent classes). Microsoft Azure Credits force Feb ship.  
+**Updated**: 1/quarter → deeper prompts/training. Microsoft Azure Credits force Feb ship.  
 Cloners: Prompts unchanged. [Commits](https://github.com/AliciaMMorgan/Innovation-In-Action/commits/main) | [Issues](https://github.com/AliciaMMorgan/Innovation-In-Action/issues)
 
 
