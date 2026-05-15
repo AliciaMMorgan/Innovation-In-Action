@@ -126,11 +126,11 @@ Workflow → Intelligence → NIST → Scale
 - **Q1 2026 — Cross-Industry AI Agent Prototype**  
   Built and validated in Microsoft Foundry to encode a cross-industry PM AI fluency framework into stage-aware guidance for project and program managers navigating AI adoption.  
   → [View full Q1 Agent Breakdown](./ai-agent-q1-2026/README.md)
-
-- **Q2**: **Risk Guardrails Agent**
-- **Status:** In definition and workflow design.  
+  
+- **Q2 2026 — Risk Guardrails Agent** `/agents/risk-guardrails`  
+  **Status:** In definition and workflow design.  
   Enterprise-ready prompt governance and containment agent for source control, narrative fidelity, accessibility-aware review, and final human-in-the-loop approval.  
-  **Current focus:** defining reviewer groups, escalation triggers, decision states, and anonymized enterprise scenarios drawn from legacy modernization work.
+  **Current focus:** Defining reviewer groups, escalation triggers, decision states, and anonymized enterprise scenarios drawn from legacy modernization ggers, decision states, and anonymized enterprise scenarios drawn from legacy modernization work.
 - **Q3**: **Stakeholder Alignment** `/agents/stakeholder-align`
 - **Q4**: **Change Readiness** `/agents/change-readiness`
 
