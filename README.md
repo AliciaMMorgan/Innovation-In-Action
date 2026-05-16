@@ -31,8 +31,7 @@ Before the case studies, this framework outlines how transformation work can mov
 
 PMs and leaders know GRC and AI delivery risks exist, but often lack practical tools to operationalize them before scaling.  
 
-**I solve this** by translating GRC, AI fluency, and project delivery into working agents, prompts, and practical workflows for real organizations.  
-Fork, adapt, or deploy to de-risk AI pilots in real environments.
+**I solve this** by translating GRC, AI fluency, and project delivery into working agents, prompts, and practical workflows for real organizations.  Fork, adapt, or deploy to de-risk AI pilots in real environments.
 
 **Start here**  
 [Use the Prompts →](agents/pm-risk-assessor/prompts) | [Agent Overview →](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor) | [Case Study](agents/pm-risk-assessor/case-vp-stem-data-foundation.md) | [See Example](agents/pm-risk-assessor/examples/sample-assessment-stem-museum.md)
