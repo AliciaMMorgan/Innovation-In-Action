@@ -106,7 +106,7 @@ Workflow → Intelligence → NIST → Scale
 
 Selected Amazon Bedrock → Anthropic → Claude 3.5 Haiku v1 and used the Tokenizer / CountTokens workflow to validate a governance-oriented prompt before runtime use. The test returned 18 input tokens, providing a small but real proof of Bedrock platform fluency and responsible prompt design.
 
-Runtime generation was not completed in this session because the Bedrock account returned throttling/token quota errors across multiple model attempts. Testing was intentionally limited to low-risk prompt sizing and platform validation.
+Runtime generation was not completed in this session because the Bedrock account returned throttling/token quota errors across multiple model attempts. Testing was intentionally limited to low-risk prompt sizing and platform validation. This was completed on 5/16/26.
 
 ## Suggested Artifacts
 
