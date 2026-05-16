@@ -102,6 +102,12 @@ Workflow → Intelligence → NIST → Scale
 - [Use the Prompts →](agents/pm-risk-assessor/prompts)
 - [Responsible AI Usage](responsible-ai-usage.md)
 
+- ### Bedrock prompt-sizing proof
+
+Selected Amazon Bedrock → Anthropic → Claude 3.5 Haiku v1 and used the Tokenizer / CountTokens workflow to validate a governance-oriented prompt before runtime use. The test returned 18 input tokens, providing a small but real proof of Bedrock platform fluency and responsible prompt design.
+
+Runtime generation was not completed in this session because the Bedrock account returned throttling/token quota errors across multiple model attempts. Testing was intentionally limited to low-risk prompt sizing and platform validation.
+
 ## Suggested Artifacts
 
 - **JIRA**: Import prompts as Kanban issues
