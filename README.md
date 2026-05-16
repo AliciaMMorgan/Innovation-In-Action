@@ -123,8 +123,6 @@ Workflow → Intelligence → NIST → Scale
 
 ## 🔮 Planned Agents (2026)
 
-## 🔮 Planned Agents (2026)
-
 - **Q1 2026 — Cross-Industry AI Agent Prototype**  
   Built and validated in Azure AI Foundry to encode a cross-industry PM AI fluency framework into stage-aware guidance for project and program managers navigating AI adoption.  
   → [View full Q1 Agent Breakdown](./ai-agent-q1-2026/README.md)
