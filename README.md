@@ -29,8 +29,9 @@ Before the case studies, this framework outlines how transformation work can mov
 
 ## What Problem I Solve 🎯
 
-PMs and leaders know AI governance risks exist, but often lack practical tools to assess and operationalize them before scaling.  
-**I solve this** with working agents and prompts grounded in NIST AI RMF and cross-industry PM practice: identify gaps, strengthen compliance, and reduce delivery risk.  
+PMs and leaders know GRC and AI delivery risks exist, but often lack practical tools to operationalize them before scaling.  
+
+**I solve this** by translating GRC, AI fluency, and project delivery into working agents, prompts, and practical workflows for real organizations.  
 Fork, adapt, or deploy to de-risk AI pilots in real environments.
 
 **Start here**  
