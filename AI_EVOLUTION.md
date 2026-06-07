@@ -6,7 +6,7 @@
 |---|---|---|---|
 | Pattern Recognition | June–Dec 2025 | 5-repo ecosystem + cross-sector patterns | Credibility scaffolding before projects |
 | Technical Scaffolding | Jan–Feb 2026 | Azure AI Foundry + Foundry Challenge | Agent architecture competence |
-| Production Delivery | Feb–May 2026 | GEMS Camp + Pickaxe (week 8–9) | Museum legacy tool + team leadership |
+| Production Delivery | Feb–May 2026 | GEMS Camp + Pickaxe (weeks 8–12) | Museum legacy tool + team leadership |
 
 **Why this matters for enterprise scaling:** Knowledge base + prompt patterns are tool-agnostic. Understanding structured/unstructured data and organizational context enables scaling across legacy environments (healthcare, aerospace, education, government).
 
@@ -58,14 +58,15 @@ Learned production tool architecture before project delivery:
 
 ### Phase 3: Production AI Modernization (February 2026 – May 2026)
 
-Delivered real AI modernization with a 4-person intern team:
+Delivered real AI modernization with a 4-person intern team over **12 weeks**:
 
 - Led **The GEMS Camp AI-for-Good initiative** (museum knowledge organization)
-- **Week 8–9:** Adapted to **Pickaxe** for museum legacy tool (not at project start)
+- **Weeks 1–7:** Discovery, prompt design, human-in-the-loop validation framework
+- **Weeks 8–9:** Started **Pickaxe** — built demo of museum legacy tool
+- **Weeks 11–12:** Built final production version, finalized and presented
 - Applied human-in-the-loop validation + governance patterns
-- Delivered Pickaxe-based legacy tool for museum staff planning
 
-**Outcome:** Production delivery with tool agility — learned Foundry first, adapted to Pickaxe mid-project.
+**Outcome:** Production delivery with tool agility — learned Foundry first, adapted to Pickaxe mid-project, delivered in 12 weeks.
 
 ---
 
