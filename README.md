@@ -26,7 +26,8 @@ Before the case studies, this framework outlines how transformation work can mov
 [Read the framework →](frameworks/cross-ecosystem-operating-model.md)
 
 ---
-🚀 **AI Strategy & Technical Evolution**
+## AI Strategy & Technical Evolution
+
 To see how I bridge 15+ years of mission-critical engineering with the agentic AI frontier, read my **[AI Evolution](./AI_EVOLUTION.md)** narrative and download the technical **[Strategic Blueprint: The Agentic Blueprint (PDF)](./docs/Alicia_Morgan_Agentic_Blueprint.pdf)**.
 
 *This repository is a practical implementation of the **Agentic PM Playbook**, focusing on the "Intelligence + Planning + Tools" formula and objective HHH evaluation benchmarks.*
