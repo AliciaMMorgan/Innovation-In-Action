@@ -89,7 +89,7 @@ Knowledge base + prompt patterns are **agnostic to tool choice**. Whether using 
 - Designing prompting patterns that work across platforms
 - Applying human-in-the-loop validation
 
-**This enables scaling to enterprise** because you can translate AI across legacy environments (healthcare, aerospace, education, government) without being locked into one platform.
+**This enables scaling to enterprise** because you can translate AI across legacy environments (nonprofits, aerospace, education, government) without being locked into one platform.
 
 **Next phase:** Enterprise agent governance patterns — when Copilot Studio is sufficient vs. when Azure AI Foundry is required for full lifecycle evaluation, safety testing, and scalable architecture.
 
