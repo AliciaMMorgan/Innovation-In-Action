@@ -1,10 +1,9 @@
-```markdown
 # AI Evolution: Strategic Integration & Accountable Program Management
 
 ## 🚀 The 12-Month Arc: Pattern Recognition → Technical Scaffolding → Production Delivery
 
 | Phase | Timeline | Focus | Outcome |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Pattern Recognition | June–Dec 2025 | 5-repo ecosystem + cross-sector patterns | Credibility scaffolding before projects |
 | Technical Scaffolding | Jan–Feb 2026 | Azure AI Foundry + Foundry Challenge | Agent architecture competence |
 | Production Delivery | Feb–May 2026 | GEMS Camp + Pickaxe (weeks 8–12) | Museum legacy tool + team leadership |
@@ -74,7 +73,7 @@ Delivered real AI modernization with a 4-person intern team over **12 weeks**:
 ## Replicable Delivery Framework
 
 | Phase | What It Requires | Tool Used |
-|---|---|---|
+| --- | --- | --- |
 | Weeks 1–7: Discovery | Structured/unstructured data + organizational context | Tool-agnostic |
 | Weeks 1–7: Prompt design | Knowledge base architecture + prompting patterns | Tool-agnostic |
 | Weeks 1–7: Human-in-the-loop validation | Governance framework + stakeholder alignment | Tool-agnostic |
@@ -138,7 +137,7 @@ As an SME Coach, I help legacy organizations navigate the "delta" between AI hyp
 In the modern AI stack, the PM serves as the **Lead Prompt Engineer for the team**. My **Innovation-In-Action** library codifies these logic-driven prompts as technical artifacts:
 
 | Strategic Tool | Logic & Planning Function | Technical Moat |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | **Initial Risk Assessment** | Surfaces governance and scaling risks for AI initiatives. | Based on scaling programs from **30K to 45K+ students**. |
 | **Data Governance Audit** | Identifies taxonomy inconsistencies and ownership gaps. | Prevents "fragile metrics" before integrating siloed data. |
 | **Pipeline Pattern Analysis** | Maps handoff risks across organizational boundaries. | Visualizes "feeder patterns" to ensure longitudinal tracking. |
@@ -162,7 +161,7 @@ I architect agents using the production-scale formula: **AI Agent = Intelligence
 I move engineering teams from subjective "vibe checks" to **objective benchmarks**:
 
 | Metric | Definition of "Good" Output |
-| :--- | :--- |
+| --- | --- |
 | **Helpfulness** | Provides actionable next steps, not generic "develop a plan" advice. |
 | **Honesty** | Output is strictly grounded in evidence-based concerns and specific context. |
 | **Harmlessness** | Identifies compliance, privacy, and intent-abuse risks (e.g., data retention). |
@@ -182,5 +181,3 @@ I move engineering teams from subjective "vibe checks" to **objective benchmarks
 *This document is a living artifact reflecting my current technical iteration within the rapidly evolving AI landscape. As AI capabilities and frameworks (like the EU AI Act) continue to shift, this strategy will evolve to ensure continued technical pragmatism and responsible integration.*
 
 *Based on the [Innovation-In-Action](https://github.com/AliciaMMorgan/Innovation-In-Action) library.*
-```
-
