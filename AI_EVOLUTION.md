@@ -35,7 +35,7 @@ Built a five-repository ecosystem to prove AI implementation understanding befor
 
 - **Cross-Industry PM Playbook** — mapped patterns across aerospace → education → nonprofit → government
 - **Innovation-In-Action** — executable agents, PM Risk Assessor prompts, governance workflows
-- **Speaking-Resources** — TEDx, PMI, IIL , EWTG Tecnology Series sponsored by IBM, ProjectBites validation and UT Dallas Project Management Symposium Panelist. 
+- **Speaking-Resources** — TEDx, PMI, IIL , EWTG Technology Series presentation sponsored by IBM, ProjectBites validation and UT Dallas Project Management Symposium Panelist. 
 - **Operational-Excellence-Toolkit** — team-ready production tools
 - **Forked agents repository** — multi-agent patterns informing 2026 deployments
 
