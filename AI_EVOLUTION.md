@@ -2,7 +2,7 @@
 
 ## 🚀 The Strategic Blueprint
 To view the full architectural strategy of my transition into AI Integration and Agentic Workflows, see the technical slide deck:
-[**Download: The Agentic Blueprint (PDF)**]([[docs/Alicia M Morgan_The_Agentic_Blueprint.pdf](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/docs/Alicia%20M%20Morgan_The_Agentic_Blueprint.pdf)])
+[**Download: The Agentic Blueprint (PDF)**]([docs/Alicia M Morgan_The_Agentic_Blueprint.pdf](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/docs/Alicia%20M%20Morgan_The_Agentic_Blueprint.pdf)])
 
 > **Quick Scan: Strategic Capabilities**
 > * **Mission:** Identifying "AI Opportunities"—the specific "jobs to be done" where AI provides a 10x productivity boost.
