@@ -1,3 +1,4 @@
+```markdown
 # AI Evolution: Strategic Integration & Accountable Program Management
 
 ## 🚀 The 12-Month Arc: Pattern Recognition → Technical Scaffolding → Production Delivery
@@ -70,7 +71,17 @@ Delivered real AI modernization with a 4-person intern team over **12 weeks**:
 
 ---
 
-## Tool-Agnostic Foundation for Enterprise Scaling
+## Replicable Delivery Framework
+
+| Phase | What It Requires | Tool Used |
+|---|---|---|
+| Weeks 1–7: Discovery | Structured/unstructured data + organizational context | Tool-agnostic |
+| Weeks 1–7: Prompt design | Knowledge base architecture + prompting patterns | Tool-agnostic |
+| Weeks 1–7: Human-in-the-loop validation | Governance framework + stakeholder alignment | Tool-agnostic |
+| Weeks 8–9: Demo | Rapid prototyping in selected platform | Any tool |
+| Weeks 11–12: Production | Finalization + governance sign-off | Any tool |
+
+**The tool is interchangeable. The framework is not.**
 
 Knowledge base + prompt patterns are **agnostic to tool choice**. Whether using Azure AI Foundry, Copilot Studio, or Pickaxe, the core competencies are:
 
@@ -82,6 +93,33 @@ Knowledge base + prompt patterns are **agnostic to tool choice**. Whether using 
 **This enables scaling to enterprise** because you can translate AI across legacy environments (healthcare, aerospace, education, government) without being locked into one platform.
 
 **Next phase:** Enterprise agent governance patterns — when Copilot Studio is sufficient vs. when Azure AI Foundry is required for full lifecycle evaluation, safety testing, and scalable architecture.
+
+---
+
+## Selected Project Evidence
+
+The museum AI coaching project was a 12-week modernization engagement focused on legacy preservation, knowledge access, and governance-first delivery.
+
+### What the project demonstrated
+- A discovery-first approach before tool selection.
+- A custom AI-powered knowledge tool grounded in structured and unstructured historical data.
+- Prompt engineering, knowledge base design, and human validation gates.
+- Three coordinated workstreams: legacy AI tool, new website, and integrated governance.
+
+### My role
+- SME AI Coach
+- Human-in-the-Loop Workstream Lead
+- Orchestration and coaching support for a 4-person consultant team
+
+### Project timeline
+- Weeks 1–7: Discovery, parameters, and validation design.
+- Weeks 8–9: Pickaxe demo build for the legacy tool.
+- Weeks 11–12: Final production version and presentation.
+
+### Evidence
+- Public presentation slides and project narrative.
+- Internal artifact not publicly linkable due to NDA.
+- External recommendation pending from organizational leadership.
 
 ---
 
@@ -144,3 +182,5 @@ I move engineering teams from subjective "vibe checks" to **objective benchmarks
 *This document is a living artifact reflecting my current technical iteration within the rapidly evolving AI landscape. As AI capabilities and frameworks (like the EU AI Act) continue to shift, this strategy will evolve to ensure continued technical pragmatism and responsible integration.*
 
 *Based on the [Innovation-In-Action](https://github.com/AliciaMMorgan/Innovation-In-Action) library.*
+```
+
