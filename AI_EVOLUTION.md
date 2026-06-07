@@ -62,7 +62,7 @@ Delivered real AI modernization with a 4-person intern team over **12 weeks**:
 
 - Led **The GEMS Camp AI-for-Good initiative** (museum knowledge organization)
 - **Weeks 1–7:** Discovery, prompt design, human-in-the-loop validation framework
-- **Weeks 8–9:** Started **Pickaxe** — built demo of museum legacy tool
+- **Weeks 8–10:** Started **Pickaxe** — built demo of museum legacy tool
 - **Weeks 11–12:** Built final production version, finalized and presented
 - Applied human-in-the-loop validation + governance patterns
 
@@ -77,7 +77,7 @@ Delivered real AI modernization with a 4-person intern team over **12 weeks**:
 | Weeks 1–7: Discovery | Structured/unstructured data + organizational context | Tool-agnostic |
 | Weeks 1–7: Prompt design | Knowledge base architecture + prompting patterns | Tool-agnostic |
 | Weeks 1–7: Human-in-the-loop validation | Governance framework + stakeholder alignment | Tool-agnostic |
-| Weeks 8–9: Demo | Rapid prototyping in selected platform | Any tool |
+| Weeks 8–10: Demo | Rapid prototyping in selected platform | Any tool |
 | Weeks 11–12: Production | Finalization + governance sign-off | Any tool |
 
 **The tool is interchangeable. The framework is not.**
@@ -112,7 +112,7 @@ The museum AI coaching project was a 12-week modernization engagement focused on
 
 ### Project timeline
 - Weeks 1–7: Discovery, parameters, and validation design.
-- Weeks 8–9: Pickaxe demo build for the legacy tool.
+- Weeks 8–10: Pickaxe demo build for the legacy tool.
 - Weeks 11–12: Final production version and presentation.
 
 ### Evidence
