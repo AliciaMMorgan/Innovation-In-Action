@@ -1,5 +1,6 @@
 # Innovation in Action 🎯
-
+[![PMP Certified](https://img.shields.io/badge/PMP-Certified-blue?logo=pmi&logoColor=white)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/linked_in_profile)
+[![HubSpot Digital Marketing Certified](https://img.shields.io/badge/HubSpot-Digital_Marketing_Certified-orange?logo=hubspot&logoColor=white)](https://app-na2.hubspot.com/academy/achievements/5b4p7p8r/en/1/alicia-morgan/digital-marketing)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://python.org)
 [![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
 [![PM Risk Assessor](https://img.shields.io/badge/PM%20Risk%20Assessor-v1.0-green)](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor)
