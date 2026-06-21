@@ -2,6 +2,8 @@
 
 ## 🚀 The 12-Month Arc: Pattern Recognition → Technical Scaffolding → Production Delivery
 
+[![Microsoft AI Skills Fest 2026](https://img.shields.io/badge/Microsoft_AI_Skills_Fest-2026-blue?logo=microsoft&logoColor=white)](https://www.credly.com/badges/f978f88e-0466-49f6-a1e9-198dff550489)
+
 | Phase | Timeline | Focus | Outcome |
 | --- | --- | --- | --- |
 | Pattern Recognition | June–Dec 2025 | 5-repo ecosystem + cross-sector patterns | Credibility scaffolding before projects |
