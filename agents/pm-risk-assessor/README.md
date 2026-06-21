@@ -2,6 +2,7 @@
 
 [![PM Risk Assessor](https://img.shields.io/badge/PM%20Risk%20Assessor-Prompts%20Live-blue?style=for-the-badge&logo=ai&logoColor=white)](prompts/)
 [![NIST Aligned](https://img.shields.io/badge/NIST-AI%20RMF%20Governance-green?style=flat-square&logo=nist)](https://www.nist.gov/itl/ai-risk-management-framework)
+[![Microsoft AI Skills Fest 2026](https://img.shields.io/badge/Microsoft_AI_Skills_Fest-2026-blue?logo=microsoft&logoColor=white)](https://www.credly.com/badges/f978f88e-0466-49f6-a1e9-198dff550489)
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat&logo=creativecommons)](https://creativecommons.org/licenses/by/4.0/)
 
 **Status:** Prompt Library Available (Dec 2025) | Agent workflow MVP (Playground validation – Jan 2026)  
