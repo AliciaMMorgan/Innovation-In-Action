@@ -1,52 +1,50 @@
+
 # Innovation in Action 🎯
+
 [![PMP Certified](https://img.shields.io/badge/PMP-Certified-blue?logo=pmi&logoColor=white)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/linked_in_profile)
-[![HubSpot Digital Marketing Certified](https://img.shields.io/badge/HubSpot-Digital_Marketing_Certified-orange?logo=hubspot&logoColor=white)](https://app-na2.hubspot.com/academy/achievements/5b4p7p8r/en/1/alicia-morgan/digital-marketing)
-[![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://python.org)
 [![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
 [![PM Risk Assessor](https://img.shields.io/badge/PM%20Risk%20Assessor-v1.0-green)](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor)
 [![Microsoft AI Skills Fest 2026](https://img.shields.io/badge/Microsoft_AI_Skills_Fest-2026-blue?logo=microsoft&logoColor=white)](https://www.credly.com/badges/f978f88e-0466-49f6-a1e9-198dff550489)
 [![Microsoft Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-Fast%20Track-blue?logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/AliciaMorgan-8584/37EZ9KQH?sharingId=AF5CC38D9654C25C)
-
 [![Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social&logo=github)](https://github.com/AliciaMMorgan/Innovation-In-Action)
 [![Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social&logo=github)](https://github.com/AliciaMMorgan/Innovation-In-Action)
 
 ---
-[![DBJ Women in Tech](https://img.shields.io/badge/DBJ-Women%20in%20Technology-blueviolet?style=flat-square&logo=business-journal)](https://www.bizjournals.com/dallas/news/2019/05/14/alicia-morgan-2019-women-in-technology.html)
 
-**2019 Advocate Honoree** – STEM education and public-impact roots that now inform these human-in-the-loop AI workflows.
-
----
-**From frameworks to working agents: operationalizing cross-industry PM insight through governance-aware agent workflows.**
+**From frameworks to working agents: operationalizing cross-industry PM insight through governance-aware AI workflows.**
 
 This repository shows how AI fluency becomes practical execution through prompts, agents, and PM-ready workflows built for real organizational environments.
 
-**Identifies governance and execution risks before teams scale analytics or AI systems.**
+It is designed for teams that need to identify governance, delivery, and implementation risks before scaling analytics or AI systems.
 
-Before the case studies, this framework outlines how transformation work can move inside existing enterprise and education ecosystems.
-
-📘 **Cross-Ecosystem Operating Model**  
-[Read the framework →](frameworks/cross-ecosystem-operating-model.md)
-
----
-## AI Strategy & Technical Evolution
-
-To see how I bridge 15 years of mission-critical engineering with the agentic AI frontier, read my **[AI Evolution](./AI_EVOLUTION.md)** narrative and download the technical **[Strategic Blueprint: The Agentic Blueprint (PDF)](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/docs/Alicia%20M%20Morgan_The_Agentic_Blueprint.pdf)**.
-
-*This repository is a practical implementation of the **Agentic PM Playbook**, focusing on the "Intelligence + Planning + Tools" formula and objective HHH evaluation benchmarks.*
-
----
 ## What Problem I Solve 🎯
 
-PMs and leaders know GRC and AI delivery risks exist, but often lack practical tools to operationalize them before scaling.  
+Project leaders often know AI delivery, governance, and adoption risks exist, but lack practical tools to operationalize them before scale.
 
-**I solve this** by translating GRC, AI fluency, and project delivery into working agents, prompts, and practical workflows for real organizations.  Fork, adapt, or deploy to de-risk AI pilots in real environments.
+This repository translates project delivery, AI fluency, and governance thinking into working prompts, prototype agents, and reusable workflows for real environments.
 
-**Start here**  
-[Use the Prompts →](agents/pm-risk-assessor/prompts) | [Agent Overview →](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor) | [Case Study](agents/pm-risk-assessor/case-vp-stem-data-foundation.md) | [See Example](agents/pm-risk-assessor/examples/sample-assessment-stem-museum.md)
+**Start here**
+- [Use the Prompts →](agents/pm-risk-assessor/prompts)
+- [Agent Overview →](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor)
+- [Case Study →](agents/pm-risk-assessor/case-vp-stem-data-foundation.md)
+- [See Example →](agents/pm-risk-assessor/examples/sample-assessment-stem-museum.md)
+- [Cross-Ecosystem Operating Model →](frameworks/cross-ecosystem-operating-model.md)
 
 *Status: Prompt library available (5 prompts + sample assessment) | Full agent prototype completed Q1 2026*
 
-## 🚀 Quick Start
+## Repository Focus
+
+This repository centers on one practical question:
+
+**How can governance-aware AI workflows help project and transformation leaders make better decisions before scale?**
+
+Current public materials focus on:
+- Prompt-based risk assessment
+- Human-in-the-loop review
+- Governance-aware workflow design
+- Cross-ecosystem implementation thinking
+
+## Quick Start
 
 ```bash
 git clone https://github.com/AliciaMMorgan/Innovation-In-Action.git
@@ -59,25 +57,37 @@ Open the PM Risk Assessor materials here:
 - `agents/pm-risk-assessor/examples/`
 - `agents/pm-risk-assessor/case-vp-stem-data-foundation.md`
 
-## 📁 Repository Structure
+## Repository Structure
 
-- `/agents/pm-risk-assessor/` – Core prompts, examples, and case studies
-- `/artifacts/` – JIRA, Confluence, Power BI, and framework visuals
-- `/notebooks/` – Benchmarking data and comparison files
-- `/cyber-ai-profile/` – NIST RMF mappings
-- `/frameworks/` – Cross-ecosystem transformation model
+- `/agents/pm-risk-assessor/` — Core prompts, examples, and case studies
+- `/frameworks/` — Cross-ecosystem transformation model
+- `/cyber-ai-profile/` — NIST AI RMF mappings
+- `/artifacts/` — Visuals, templates, and supporting materials
+- `/notebooks/` — Benchmarking and comparison files
 
-## 🎯 Featured: 9-Step Career Framework
+## Featured Work: PM Risk Assessor
 
-**"9 Steps: Traditional PM → AI-Fluent Leader"** LinkedIn carousel (Dec 2025)  
-[🔗 View Carousel](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/artifacts/carousel%3A9-steps-traditional-pm-to-ai-fluent-leader.pdf)
+**Live now:** 5 production prompts + sample assessment + STEM case study  
+**Prototype completed:** Q1 2026 in Azure AI Foundry
+
+The PM Risk Assessor helps teams surface governance and execution risks before scaling delivery, analytics, or AI initiatives.
+
+[![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
+
+- [Use the Prompts →](agents/pm-risk-assessor/prompts)
+- [Responsible AI Usage →](responsible-ai-usage.md)
 
 ## Why Agentic Workflows?
 
-Traditional PM often follows **document → meeting → decision**.  
-Agentic workflows support **prompt → validate → deploy → monitor**.
+Traditional project workflows often follow:
 
-This repository focuses on where agent workflows help PMs and leaders strengthen judgment, governance, and implementation readiness.
+**document → meeting → decision**
+
+Governance-aware AI workflows support a more iterative model:
+
+**prompt → validate → refine → monitor**
+
+This repository focuses on where prompts and agentic patterns can strengthen judgment, governance, and implementation readiness.
 
 ## AI WINS Dashboard
 
@@ -91,94 +101,195 @@ Workflow → Intelligence → NIST → Scale
 | **Operational** | How prompts, chains, and workflows run | Improves execution consistency |
 | **Ethical** | Bias, privacy, and trust considerations | Supports responsible adoption |
 
-## 🤖 Agent-First vs API-First
+## Bedrock Prompt-Sizing Proof
 
-| Use Agent-First When | Use API-First When |
-|---------------------|-------------------|
-| Dynamic judgment is needed | Static data processing is enough |
-| Cross-system orchestration matters | Single-tool optimization is the goal |
-| Rapid iteration is required | Production stability is primary |
-| PM risk assessment needs context | Transactional volume is predictable |
+Selected Amazon Bedrock → Anthropic → Claude 3.5 Haiku v1 and used the Tokenizer / CountTokens workflow to validate a governance-oriented prompt before runtime use.
 
-## 🛠️ Active Development: PM Risk Assessor
+The test returned 18 input tokens, providing a small but real proof of Bedrock platform fluency and responsible prompt design.
 
-**Live now**: 5 production prompts + STEM case study.  
-**Q1 2026**: Cross-industry AI agent prototype completed in Azure AI Foundry.
+Runtime generation was not completed in that session because the Bedrock account returned throttling and token quota errors across multiple model attempts. Testing was intentionally limited to low-risk prompt sizing and platform validation.
 
-[![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
-
-- [Use the Prompts →](agents/pm-risk-assessor/prompts)
-- [Responsible AI Usage](responsible-ai-usage.md)
-
-### Bedrock prompt-sizing proof
-
-Selected Amazon Bedrock → Anthropic → Claude 3.5 Haiku v1 and used the Tokenizer / CountTokens workflow to validate a governance-oriented prompt before runtime use. The test returned 18 input tokens, providing a small but real proof of Bedrock platform fluency and responsible prompt design.
-
-Runtime generation was not completed in this session because the Bedrock account returned throttling/token quota errors across multiple model attempts. Testing was intentionally limited to low-risk prompt sizing and platform validation. This was completed on 5/16/26.
+*Completed 5/16/26.*
 
 ## Suggested Artifacts
 
-- **JIRA**: Import prompts as Kanban issues
-- **Confluence**: Embed outputs and NIST mappings
-- **Power BI**: Build risk heatmaps from CSV exports
-- **AI WINS Dashboard**: [Excel template](artifacts/AI_Wins_Dashboard_Senior_Business_Analyst.xlsx)
-- **GitHub Issues**: Log gaps and customizations
+- **JIRA:** Import prompts as Kanban issues
+- **Confluence:** Embed outputs and NIST mappings
+- **Power BI:** Build risk heatmaps from CSV exports
+- **AI WINS Dashboard:** [Excel template](artifacts/AI_Wins_Dashboard_Senior_Business_Analyst.xlsx)
+- **GitHub Issues:** Log gaps, feedback, and customizations
 
-## 📈 Progress Log: Dec 2025–Jan 2026
+## Current Status
 
-**Research → production agents**
+This repository contains public examples of governance-aware AI workflow design, prompt validation, and cross-industry practitioner learning.
 
-- **Anthropic AI fluency and agents research**: prompt engineering, deployment patterns, ROI framing
-- **Microsoft Learn + AWS ML Essentials**: operational chaining, token economics, and capacity planning
-- **NIST AI RMF + ISO 42001**: govern, measure, and continuous monitoring patterns
-- **Carousels and public artifacts**: turning frameworks into reusable teaching and implementation tools
+The PM Risk Assessor prompt library and prototype documentation remain available for reference and adaptation.
 
-*Addresses common enterprise blockers: integration, data readiness, cost visibility, and governance timing.*
+Additional public agent development is currently paused while selected methods continue privately or in more limited contexts.
 
-## 🔮 Planned Agents (2026)
+## Technical Context
 
-- **Q1 2026 — Cross-Industry AI Agent Prototype**  
-  Built and validated in Azure AI Foundry to encode a cross-industry PM AI fluency framework into stage-aware guidance for project and program managers navigating AI adoption.  
-  → [View full Q1 Agent Breakdown](./ai-agent-q1-2026/README.md)
+To see how this work connects broader transformation leadership, AI fluency, and cross-ecosystem implementation:
 
-- **Q2 2026 — Risk Guardrails Agent** `/agents/risk-guardrails`  
-  **Status:** workflow design, prompt validation, and platform testing in progress. Bedrock prompt-sizing completed. Runtime validation pending account quota resolution.
-  **Current focus:** Defining reviewer groups, escalation triggers, decision states, and anonymized enterprise scenarios drawn from legacy modernization work.  
-  **Additional focus:** Defining escalation paths for stalled work, unresolved blockers, and contingency delivery planning within RACI-based workflow governance.  
-  → [View Risk Guardrails Agent](./agents/risk-guardrails/README.md)
+- [AI Evolution →](./AI_EVOLUTION.md)
+- [Strategic Blueprint: The Agentic Blueprint (PDF) →](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/docs/Alicia%20M%20Morgan_The_Agentic_Blueprint.pdf)
+- [Cyber AI Profile (IR 8596) →](cyber-ai-profile/)
 
-- **Q3 2026 — Stakeholder Alignment** `/agents/stakeholder-align`
-- **Q4 2026 — Change Readiness** `/agents/change-readiness`
-
-
-## 🔄 Iteration Log
-
-**Jan 10, 2026**: Shifted from a Q1 multi-agent batch to a quarterly rollout for deeper refinement, testing, and training.  
-[Commits](https://github.com/AliciaMMorgan/Innovation-In-Action/commits/main) | [Issues](https://github.com/AliciaMMorgan/Innovation-In-Action/issues)
-
-## NIST AI RMF–Aligned ⚖️
-
-[![AWS ML](https://img.shields.io/badge/AWS%20ML-brightgreen?logo=aws)](https://drive.google.com/file/d/1WJBQ2umkQtaE2b9jhaoYGHIPBlkNbr8z/view?usp=drivesdk)
-[![AI Strategy](https://img.shields.io/badge/AI%20Strategy-orange?logo=masterclass)](https://www.masterclass.com/classes/ai-strategy-at-work)
-[![MS AI Fluency](https://img.shields.io/badge/Microsoft%20AI%20Fluency-Completed-blue?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/aliciamorgan-8584/achievements/ypdwe28r?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-
-```text
-Govern → Map → Measure → Manage
-```
-
-**[Cyber AI Profile (IR 8596)](cyber-ai-profile/)** – CSF mappings for Secure, Defend, and Thwart.
-
-## 📚 Foundation
-
-**Fortune 500/100 → Nonprofit → Independent AI-PM Consultant**  
-Cross-industry execution and industrial engineering foundations applied to governance-aware agent workflows.
-
-## 🔗 Related Work
+## Related Work
 
 - [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)
 - [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/)
 
-## 📄 License
+## License
 
 MIT  
 *"Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)"*
+````
+
+Sources
+
+[![PMP Certified](https://img.shields.io/badge/PMP-Certified-blue?logo=pmi&logoColor=white)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/linked_in_profile)
+[![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
+[![PM Risk Assessor](https://img.shields.io/badge/PM%20Risk%20Assessor-v1.0-green)](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor)
+[![Microsoft AI Skills Fest 2026](https://img.shields.io/badge/Microsoft_AI_Skills_Fest-2026-blue?logo=microsoft&logoColor=white)](https://www.credly.com/badges/f978f88e-0466-49f6-a1e9-198dff550489)
+[![Microsoft Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-Fast%20Track-blue?logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/AliciaMorgan-8584/37EZ9KQH?sharingId=AF5CC38D9654C25C)
+[![Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social&logo=github)](https://github.com/AliciaMMorgan/Innovation-In-Action)
+[![Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social&logo=github)](https://github.com/AliciaMMorgan/Innovation-In-Action)
+
+---
+
+**From frameworks to working agents: operationalizing cross-industry PM insight through governance-aware AI workflows.**
+
+This repository shows how AI fluency becomes practical execution through prompts, agents, and PM-ready workflows built for real organizational environments.
+
+It is designed for teams that need to identify governance, delivery, and implementation risks before scaling analytics or AI systems.
+
+## What Problem I Solve 🎯
+
+Project leaders often know AI delivery, governance, and adoption risks exist, but lack practical tools to operationalize them before scale.
+
+This repository translates project delivery, AI fluency, and governance thinking into working prompts, prototype agents, and reusable workflows for real environments.
+
+**Start here**
+- [Use the Prompts →](agents/pm-risk-assessor/prompts)
+- [Agent Overview →](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor)
+- [Case Study →](agents/pm-risk-assessor/case-vp-stem-data-foundation.md)
+- [See Example →](agents/pm-risk-assessor/examples/sample-assessment-stem-museum.md)
+- [Cross-Ecosystem Operating Model →](frameworks/cross-ecosystem-operating-model.md)
+
+*Status: Prompt library available (5 prompts + sample assessment) | Full agent prototype completed Q1 2026*
+
+## Repository Focus
+
+This repository centers on one practical question:
+
+**How can governance-aware AI workflows help project and transformation leaders make better decisions before scale?**
+
+Current public materials focus on:
+- Prompt-based risk assessment
+- Human-in-the-loop review
+- Governance-aware workflow design
+- Cross-ecosystem implementation thinking
+
+## Quick Start
+
+```bash
+git clone https://github.com/AliciaMMorgan/Innovation-In-Action.git
+cd Innovation-In-Action
+```
+
+Open the PM Risk Assessor materials here:
+
+- `agents/pm-risk-assessor/prompts/`
+- `agents/pm-risk-assessor/examples/`
+- `agents/pm-risk-assessor/case-vp-stem-data-foundation.md`
+
+## Repository Structure
+
+- `/agents/pm-risk-assessor/` — Core prompts, examples, and case studies
+- `/frameworks/` — Cross-ecosystem transformation model
+- `/cyber-ai-profile/` — NIST AI RMF mappings
+- `/artifacts/` — Visuals, templates, and supporting materials
+- `/notebooks/` — Benchmarking and comparison files
+
+## Featured Work: PM Risk Assessor
+
+**Live now:** 5 production prompts + sample assessment + STEM case study  
+**Prototype completed:** Q1 2026 in Azure AI Foundry
+
+The PM Risk Assessor helps teams surface governance and execution risks before scaling delivery, analytics, or AI initiatives.
+
+[![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
+
+- [Use the Prompts →](agents/pm-risk-assessor/prompts)
+- [Responsible AI Usage →](responsible-ai-usage.md)
+
+## Why Agentic Workflows?
+
+Traditional project workflows often follow:
+
+**document → meeting → decision**
+
+Governance-aware AI workflows support a more iterative model:
+
+**prompt → validate → refine → monitor**
+
+This repository focuses on where prompts and agentic patterns can strengthen judgment, governance, and implementation readiness.
+
+## AI WINS Dashboard
+
+```text
+Workflow → Intelligence → NIST → Scale
+```
+
+| Pillar | What it Means | Workflow Impact |
+|--------|---------------|-----------------|
+| **Cognitive** | How AI reasons and where it can fail | Reduces avoidable AI rework |
+| **Operational** | How prompts, chains, and workflows run | Improves execution consistency |
+| **Ethical** | Bias, privacy, and trust considerations | Supports responsible adoption |
+
+## Bedrock Prompt-Sizing Proof
+
+Selected Amazon Bedrock → Anthropic → Claude 3.5 Haiku v1 and used the Tokenizer / CountTokens workflow to validate a governance-oriented prompt before runtime use.
+
+The test returned 18 input tokens, providing a small but real proof of Bedrock platform fluency and responsible prompt design.
+
+Runtime generation was not completed in that session because the Bedrock account returned throttling and token quota errors across multiple model attempts. Testing was intentionally limited to low-risk prompt sizing and platform validation.
+
+*Completed 5/16/26.*
+
+## Suggested Artifacts
+
+- **JIRA:** Import prompts as Kanban issues
+- **Confluence:** Embed outputs and NIST mappings
+- **Power BI:** Build risk heatmaps from CSV exports
+- **AI WINS Dashboard:** [Excel template](artifacts/AI_Wins_Dashboard_Senior_Business_Analyst.xlsx)
+- **GitHub Issues:** Log gaps, feedback, and customizations
+
+## Current Status
+
+This repository contains public examples of governance-aware AI workflow design, prompt validation, and cross-industry practitioner learning.
+
+The PM Risk Assessor prompt library and prototype documentation remain available for reference and adaptation.
+
+Additional public agent development is currently paused while selected methods continue privately or in more limited contexts.
+
+## Technical Context
+
+To see how this work connects broader transformation leadership, AI fluency, and cross-ecosystem implementation:
+
+- [AI Evolution →](./AI_EVOLUTION.md)
+- [Strategic Blueprint: The Agentic Blueprint (PDF) →](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/docs/Alicia%20M%20Morgan_The_Agentic_Blueprint.pdf)
+- [Cyber AI Profile (IR 8596) →](cyber-ai-profile/)
+
+## Related Work
+
+- [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)
+- [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/)
+
+## License
+
+MIT  
+*"Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)"*
+````
+
