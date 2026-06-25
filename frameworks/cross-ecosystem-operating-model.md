@@ -88,11 +88,11 @@ Tools are selected based on their ability to support clarity, trust, and strateg
 
 AI is treated as an accelerator, not a replacement for human responsibility.
 
-# Everyday Copilot use:
+Everyday Copilot use:
 
 •	Microsoft 365 Copilot for drafting, summarization, pattern recognition, and analysis support inside Word, Excel, PowerPoint, Outlook, Teams, and related Microsoft 365 experiences.
 
-# Agent design and extension with Copilot Studio:
+Agent design and extension with Copilot Studio:
 
 •	Copilot Studio for building and extending agents, connecting knowledge sources and tools, configuring workflows, testing behavior, and publishing agents to Microsoft 365 Copilot or Teams.
 
