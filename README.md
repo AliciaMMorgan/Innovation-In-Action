@@ -80,4 +80,40 @@ The PM Risk Assessor helps teams identify delivery, governance, and implementati
 AI is treated as an accelerator, not a replacement for human responsibility.
 
 **Everyday Copilot use**
-- Microsoft 365 Copilot for drafting, summarization, pattern recognition, and analysis support inside Word, Excel, PowerPoint, Outlook, Teams, and related Microsoft 365 experien
+- Microsoft 365 Copilot for drafting, summarization, pattern recognition, and analysis support inside Word, Excel, PowerPoint, Outlook, Teams, and related Microsoft 365 experiences.
+
+**Agent design and extension with Copilot Studio**
+- Copilot Studio for building and extending agents, connecting knowledge sources and tools, configuring workflows, testing behavior, and publishing agents to Microsoft 365 Copilot or Teams.
+
+**Human responsibilities retained**
+- Accuracy verification
+- Reasoning and logic checking
+- Ethical judgment
+- Audience and brand alignment
+- Accountability for final outputs
+
+## Suggested Artifacts
+
+- **Jira:** Import prompts as Kanban issues
+- **Confluence or SharePoint:** Embed outputs, governance notes, and NIST mappings
+- **Power BI:** Build risk heatmaps from CSV exports
+- **Excel:** Use structured templates for workflow tracking and executive review
+- **GitHub Issues:** Log gaps, feedback, and customizations
+
+## Current Status
+
+This repository contains public examples of governance-aware AI workflow design, prompt validation, and cross-ecosystem implementation thinking.
+
+The PM Risk Assessor prompt library and prototype documentation remain available for reference and adaptation.
+
+Additional public agent development is currently paused while selected methods continue privately or in more limited contexts.
+
+## Related Work
+
+- [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)
+- [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/)
+
+## License
+
+MIT  
+*"Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)"*
