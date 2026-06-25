@@ -1,5 +1,5 @@
 
-# Innovation in Action 
+# Innovation in Action
 
 [![PMP Certified](https://img.shields.io/badge/PMP-Certified-blue?logo=pmi&logoColor=white)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/linked_in_profile)
 [![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
@@ -11,51 +11,61 @@
 
 ---
 
-**From frameworks to working agents: operationalizing cross-industry PM insight through governance-aware AI workflows.**
+**Governance-aware AI enablement for enterprise and mission-driven organization environments.**
 
-This repository shows how AI fluency becomes practical execution through prompts, agents, and PM-ready workflows built for real organizational environments.
+This repository showcases applied work at the intersection of project leadership, AI enablement, governance, and workflow modernization.
 
-It is designed for teams that need to identify governance, delivery, and implementation risks before scaling analytics or AI systems.
+It is designed for enterprise and mission-driven organizations operating within existing ecosystems, where Microsoft 365, Microsoft 365 Copilot, Copilot Studio, SharePoint, OneDrive, Teams, workflow systems, reporting tools, and security controls shape how AI adoption actually happens.
 
-## What Problem I Solve 🎯
+## Organizational Context
 
-Project leaders often know AI delivery, governance, and adoption risks exist, but lack practical tools to operationalize them before scale.
+The work in this repository reflects the realities of AI adoption inside governed environments:
+- Microsoft 365 for documentation, collaboration, and knowledge management
+- Microsoft 365 Copilot for everyday drafting, summarization, analysis support, and work acceleration
+- Copilot Studio for agent design, extension, workflow configuration, and publishing across business use cases
+- SharePoint and OneDrive for controlled document access and content management
+- Teams for collaboration, communication, and embedded workflow support
+- Jira or similar systems for delivery tracking and operational execution
+- Power BI, Excel, and related reporting layers for visibility, measurement, and decision support
+- Governance, licensing, permissions, and security requirements that influence implementation and scale
 
-This repository translates project delivery, AI fluency, and governance thinking into working prompts, prototype agents, and reusable workflows for real environments.
+This repository is not centered on abstract AI experimentation. It focuses on practical enablement: how to introduce AI capabilities in ways that support adoption, maintain trust, and fit real organizational operating conditions.
 
-**Start here**
+## What This Repository Demonstrates
+
+This repository translates AI fluency and project leadership into practical assets for real-world environments, including:
+- Prompt-based risk assessment
+- Governance-aware workflow design
+- Human-in-the-loop review practices
+- Cross-functional documentation and decision support
+- Early-stage agent and workflow prototyping
+- Cross-ecosystem implementation thinking
+
+## What Problem This Solves
+
+Many organizations understand that AI adoption introduces delivery, governance, and workflow risks, but they often lack practical, reusable ways to surface and address those issues early.
+
+This repository helps bridge that gap by translating governance thinking, project delivery insight, and AI enablement into working prompts, structured workflows, and implementation-ready examples.
+
+## Start Here
+
 - [Use the Prompts →](agents/pm-risk-assessor/prompts)
 - [Agent Overview →](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor)
 - [Case Study →](agents/pm-risk-assessor/case-vp-stem-data-foundation.md)
 - [See Example →](agents/pm-risk-assessor/examples/sample-assessment-stem-museum.md)
 - [Cross-Ecosystem Operating Model →](frameworks/cross-ecosystem-operating-model.md)
+- [Responsible AI Usage →](responsible-ai-usage.md)
 
 *Status: Prompt library available (5 prompts + sample assessment) | Full agent prototype completed Q1 2026*
 
-## Repository Focus
+## Featured Work: PM Risk Assessor
 
-This repository centers on one practical question:
+**Live now:** 5 production prompts + sample assessment + STEM case study  
+**Prototype completed:** Q1 2026 in Azure AI Foundry
 
-**How can governance-aware AI workflows help project and transformation leaders make better decisions before scale?**
+The PM Risk Assessor helps teams identify delivery, governance, and implementation risks before scaling analytics, transformation, or AI initiatives.
 
-Current public materials focus on:
-- Prompt-based risk assessment
-- Human-in-the-loop review
-- Governance-aware workflow design
-- Cross-ecosystem implementation thinking
-
-## Quick Start
-
-```bash
-git clone https://github.com/AliciaMMorgan/Innovation-In-Action.git
-cd Innovation-In-Action
-```
-
-Open the PM Risk Assessor materials here:
-
-- `agents/pm-risk-assessor/prompts/`
-- `agents/pm-risk-assessor/examples/`
-- `agents/pm-risk-assessor/case-vp-stem-data-foundation.md`
+[![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
 
 ## Repository Structure
 
@@ -65,83 +75,9 @@ Open the PM Risk Assessor materials here:
 - `/artifacts/` — Visuals, templates, and supporting materials
 - `/notebooks/` — Benchmarking and comparison files
 
-## Featured Work: PM Risk Assessor
+## AI Fluency Inside Existing Ecosystems
 
-**Live now:** 5 production prompts + sample assessment + STEM case study  
-**Prototype completed:** Q1 2026 in Azure AI Foundry
+AI is treated as an accelerator, not a replacement for human responsibility.
 
-The PM Risk Assessor helps teams surface governance and execution risks before scaling delivery, analytics, or AI initiatives.
-
-[![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
-
-- [Use the Prompts →](agents/pm-risk-assessor/prompts)
-- [Responsible AI Usage →](responsible-ai-usage.md)
-
-## Why Agentic Workflows?
-
-Traditional project workflows often follow:
-
-**document → meeting → decision**
-
-Governance-aware AI workflows support a more iterative model:
-
-**prompt → validate → refine → monitor**
-
-This repository focuses on where prompts and agentic patterns can strengthen judgment, governance, and implementation readiness.
-
-## AI WINS Dashboard
-
-```text
-Workflow → Intelligence → NIST → Scale
-```
-
-| Pillar | What it Means | Workflow Impact |
-|--------|---------------|-----------------|
-| **Cognitive** | How AI reasons and where it can fail | Reduces avoidable AI rework |
-| **Operational** | How prompts, chains, and workflows run | Improves execution consistency |
-| **Ethical** | Bias, privacy, and trust considerations | Supports responsible adoption |
-
-## Bedrock Prompt-Sizing Proof
-
-Selected Amazon Bedrock → Anthropic → Claude 3.5 Haiku v1 and used the Tokenizer / CountTokens workflow to validate a governance-oriented prompt before runtime use.
-
-The test returned 18 input tokens, providing a small but real proof of Bedrock platform fluency and responsible prompt design.
-
-Runtime generation was not completed in that session because the Bedrock account returned throttling and token quota errors across multiple model attempts. Testing was intentionally limited to low-risk prompt sizing and platform validation.
-
-*Completed 5/16/26.*
-
-## Suggested Artifacts
-
-- **JIRA:** Import prompts as Kanban issues
-- **Confluence:** Embed outputs and NIST mappings
-- **Power BI:** Build risk heatmaps from CSV exports
-- **AI WINS Dashboard:** [Excel template](artifacts/AI_Wins_Dashboard_Senior_Business_Analyst.xlsx)
-- **GitHub Issues:** Log gaps, feedback, and customizations
-
-## Current Status
-
-This repository contains public examples of governance-aware AI workflow design, prompt validation, and cross-industry practitioner learning.
-
-The PM Risk Assessor prompt library and prototype documentation remain available for reference and adaptation.
-
-Additional public agent development is currently paused while selected methods continue privately or in more limited contexts.
-
-## Technical Context
-
-To see how this work connects broader transformation leadership, AI fluency, and cross-ecosystem implementation:
-
-- [AI Evolution →](./AI_EVOLUTION.md)
-- [Cyber AI Profile (IR 8596) →](cyber-ai-profile/)
-
-## Related Work
-
-- [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)
-- [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/)
-
-## License
-
-MIT  
-*"Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)"*
-````
-
+**Everyday Copilot use**
+- Microsoft 365 Copilot for drafting, summarization, pattern recognition, and analysis support inside Word, Excel, PowerPoint, Outlook, Teams, and related Microsoft 365 experien
