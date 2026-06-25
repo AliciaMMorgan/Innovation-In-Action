@@ -35,7 +35,8 @@ How I work in these settings:
 ## 3. Corporate and Enterprise Ecosystems
 
 Common characteristics:
-- Microsoft ecosystems for document and knowledge management  
+- Microsoft 365 ecosystems for document and knowledge management
+- Microsoft 365 Copilot, where licensed and approved, for AI-assisted work across enterprise applications
 - SharePoint and OneDrive for controlled document storage  
 - Business intelligence tools for reporting and executive dashboards  
 - Jira or similar systems for workflow and project tracking  
@@ -87,18 +88,21 @@ Tools are selected based on their ability to support clarity, trust, and strateg
 
 AI is treated as an accelerator, not a replacement for human responsibility.
 
-How I apply AI:
-- Research synthesis and information gathering  
-- Drafting and content development  
-- Pattern recognition and analysis support  
-- Scenario exploration  
+# Everyday Copilot use:
+
+•	Microsoft 365 Copilot for drafting, summarization, pattern recognition, and analysis support inside Word, Excel, PowerPoint, Outlook, Teams, and related Microsoft 365 experiences.
+
+# Agent design and extension with Copilot Studio:
+
+•	Copilot Studio for building and extending agents, connecting knowledge sources and tools, configuring workflows, testing behavior, and publishing agents to Microsoft 365 Copilot or Teams.
 
 Human responsibilities retained:
-- Accuracy verification  
-- Reasoning and logic checking  
-- Ethical judgment  
-- Audience and brand alignment  
-- Accountability for final outputs  
+
+•	Accuracy verification
+•	Reasoning and logic checking
+•	Ethical judgment
+•	Audience and brand alignment
+•	Accountability for final outputs
 
 ---
 
