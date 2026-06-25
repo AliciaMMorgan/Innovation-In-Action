@@ -132,7 +132,6 @@ Additional public agent development is currently paused while selected methods c
 To see how this work connects broader transformation leadership, AI fluency, and cross-ecosystem implementation:
 
 - [AI Evolution →](./AI_EVOLUTION.md)
-- [Strategic Blueprint: The Agentic Blueprint (PDF) →](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/docs/Alicia%20M%20Morgan_The_Agentic_Blueprint.pdf)
 - [Cyber AI Profile (IR 8596) →](cyber-ai-profile/)
 
 ## Related Work
