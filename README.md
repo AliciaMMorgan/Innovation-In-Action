@@ -7,7 +7,7 @@
 [![Microsoft AI Skills Fest 2026](https://img.shields.io/badge/Microsoft_AI_Skills_Fest-2026-blue?logo=microsoft&logoColor=white)](https://www.credly.com/badges/f978f88e-0466-49f6-a1e9-198dff550489)
 [![Microsoft Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-Fast%20Track-blue?logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/AliciaMorgan-8584/37EZ9KQH?sharingId=AF5CC38D9654C25C)
 [![Stars](https://img.shields.io/github/stars/AliciaMMorgan/Innovation-In-Action?style=social&logo=github)](https://github.com/AliciaMMorgan/Innovation-In-Action)
-[![Forks](https://img.shields.io/github/forks/AliciaMMorgan/Innovation-In-Action?style=social&logo=github)](https://github.com/AliciaMMorgan/Innovation-In-Action)
+
 
 ---
 
