@@ -2,6 +2,7 @@
 # Innovation in Action
 
 [![PMP Certified](https://img.shields.io/badge/PMP-Certified-blue?logo=pmi&logoColor=white)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/linked_in_profile)
+[![Google AI Professional Certificate](https://placehold.co/240x240/png?text=Google+AI+Professional+Certificate)](https://www.credly.com/org/coursera/badge/google-ai-professional-certificate)
 [![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-1.0-orange)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
 [![PM Risk Assessor](https://img.shields.io/badge/PM%20Risk%20Assessor-v1.0-green)](https://github.com/AliciaMMorgan/Innovation-In-Action/tree/main/agents/pm-risk-assessor)
 [![Microsoft AI Skills Fest 2026](https://img.shields.io/badge/Microsoft_AI_Skills_Fest-2026-blue?logo=microsoft&logoColor=white)](https://www.credly.com/badges/f978f88e-0466-49f6-a1e9-198dff550489)
