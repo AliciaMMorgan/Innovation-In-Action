@@ -125,8 +125,9 @@ Additional public agent development is currently paused while selected methods c
 
 ## Related Work
 
-- [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)
+- [Professional Website](https://aliciammorgan.com/)
 - [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/)
+
 
 ## License
 
