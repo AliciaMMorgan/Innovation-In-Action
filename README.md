@@ -141,10 +141,28 @@ The PM Risk Assessor prompt library and prototype documentation remain available
 
 Additional public agent development is currently paused while selected methods continue privately or in more limited contexts.
 
-## Related Work
+As enterprise AI adoption continues to evolve, current areas of interest include workforce readiness, AI governance, business value realization, human-centered implementation, and the successful transition from experimentation to scaled organizational adoption.
 
-- [Professional Website](https://aliciammorgan.com/)
-- [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/)
+
+## Related Resources
+
+### Digital Transformation, AI Adoption & Workforce Enablement
+A portfolio of AI adoption, workforce enablement, governance, and transformation work across enterprise, higher education, nonprofit, and community initiatives.
+
+https://aliciammorgan.com/digital-transformation-ai-adoption-workforce-enablement/
+
+### Executive Leader
+Leadership journey spanning aerospace engineering, workforce development, executive nonprofit leadership, digital transformation, and AI-enabled change.
+
+https://aliciammorgan.com/executive-leader/
+
+### Professional Website
+
+https://aliciammorgan.com/
+
+### LinkedIn
+
+https://www.linkedin.com/in/aliciammorgan1/
 
 
 ## License
