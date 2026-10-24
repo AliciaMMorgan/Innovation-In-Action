@@ -113,6 +113,9 @@ Rather than focusing solely on tools, the session explored how organizations can
 - Trust, governance, and responsible AI
 - Organizational adoption and change
 
+
+▶️ Click the image to watch on YouTube 
+
 [![How to Lead Enterprise AI Adoption](https://img.youtube.com/vi/-t189rVblPY/hqdefault.jpg)](https://youtu.be/-t189rVblPY)
 
 Learn more:
