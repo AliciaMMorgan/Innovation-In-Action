@@ -98,6 +98,24 @@ The PM Risk Assessor helps teams identify delivery, governance, and implementati
 
 [![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
 
+### Emerson | AI for Everyone: Turning Intelligence Into Inclusion
+
+This discussion highlights key themes from an enterprise AI adoption workshop focused on workforce readiness, accessibility, responsible AI use, governance, and human-centered change.
+
+Rather than focusing solely on tools, the session explored how organizations can build trust, support adoption, and create sustainable business value through responsible implementation.
+
+**Discussion Highlights:**
+- Human-centered AI adoption
+- Accessibility and inclusive design
+- Workforce readiness and enablement
+- Trust, governance, and responsible AI
+- Organizational adoption and change
+
+https://img.youtube.com/vi/-t189rVblPY/hqdefault.jpg](https://youtu.be/-t189rVblPY)
+
+Learn more:
+https://aliciammorgan.com/digital-transformation-ai-adoption-workforce-enablement/
+
 ## Repository Structure
 
 - `/agents/pm-risk-assessor/` — Core prompts, examples, and case studies
