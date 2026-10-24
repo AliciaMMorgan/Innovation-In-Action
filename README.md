@@ -46,7 +46,8 @@ This repository reflects lessons learned across multiple stages of AI adoption:
 
 The focus is not simply on deploying AI tools. It is on helping organizations move from experimentation to sustainable adoption and measurable business value.
 
-These lessons have been shaped through cross-industry experience spanning aerospace, workforce development, higher education, nonprofit leadership, enterprise transformation, and AI-enabled innovation.
+These lessons have been shaped through cross-industry experience spanning aerospace, workforce development, higher education, nonprofit leadership, and enterprise transformation.
+
 
 
 ## Organizational Context
