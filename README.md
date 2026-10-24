@@ -97,6 +97,7 @@ This repository helps bridge those gaps through practical examples of governance
 The PM Risk Assessor helps teams identify delivery, governance, and implementation risks before scaling analytics, transformation, or AI initiatives.
 
 ▶️ Click the image to watch on YouTube 
+
 [![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
 
 ### Emerson | AI for Everyone: Turning Intelligence Into Inclusion
