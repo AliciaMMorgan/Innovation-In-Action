@@ -111,7 +111,7 @@ Rather than focusing solely on tools, the session explored how organizations can
 - Trust, governance, and responsible AI
 - Organizational adoption and change
 
-[![How to Lead Enterprise AI Adoption](https://img.youtube.com/vi/-t189rVblPY/hqdefault.jpg](https://youtu.be/-t189rVblPY)
+[![How to Lead Enterprise AI Adoption](https://img.youtube.com/vi/-t189rVblPY/hqdefault.jpg)](https://youtu.be/-t189rVblPY)
 
 Learn more:
 https://aliciammorgan.com/digital-transformation-ai-adoption-workforce-enablement/
