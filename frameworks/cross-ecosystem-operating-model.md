@@ -54,6 +54,7 @@ Formal governance, cybersecurity, compliance, licensing, and access-control requ
 Cross-functional teams operating across multiple technology environments
 
 
+
 How I work in these settings:
 
 Learn governance structures, approval pathways, and organizational operating models
