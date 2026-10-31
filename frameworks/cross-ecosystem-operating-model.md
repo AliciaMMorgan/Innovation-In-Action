@@ -2,7 +2,7 @@
 
 This operating model reflects how I lead transformation work inside complex organizations. Rather than imposing preferred tools or idealized solutions, I enter existing environments, understand how they function, and design change from within real institutional conditions.
 
-Organizations do not operate in neutral territory. Every environment has established platforms, governance rules, licensing agreements, security requirements, data policies, and collaboration habits. Effective transformation begins by recognizing why these systems exist and what risks and responsibilities they carry.
+Organizations do not operate in neutral territory. Every environment has established platforms, governance rules, licensing agreements, security requirements, data policies, and collaboration habits. Effective transformation starts with understanding why these systems exist and the risks and responsibilities they carry.
 
 ---
 
@@ -163,19 +163,22 @@ Organizations remain responsible for:
 
 ## 8. Transformation Principles
 
-Start with business outcomes, not technology.
 
-Respect existing investments and institutional knowledge.
+These principles guide how I approach organizational change, technology adoption, and modernization across sectors and operating environments.
 
-Prioritize adoption, trust, and usability.
+- Start with business outcomes, not technology.
 
-Keep governance proportional to risk.
+- Respect existing investments, institutional knowledge, and operational realities.
 
-Design for sustainability rather than short-term excitement.
+- Prioritize adoption, trust, and usability alongside technical capability.
 
-Translate complexity into actionable decisions.
+- Keep governance proportional to risk while maintaining accountability.
 
-Maintain human accountability.
+- Design for sustainability rather than short-term excitement.
+
+- Translate complexity into actionable decisions and measurable outcomes.
+
+- Maintain human responsibility for judgment, oversight, and final decisions.
 
 ---
 
