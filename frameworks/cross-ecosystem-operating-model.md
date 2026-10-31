@@ -86,8 +86,6 @@ Tools are selected based on their ability to support clarity, trust, and strateg
 
 ## 6. AI Fluency Inside Existing Ecosystems
 
-## 6. AI Fluency Inside Existing Ecosystems
-
 AI is treated as an accelerator, not a replacement for human responsibility.
 
 Organizations increasingly use AI capabilities across collaboration platforms, productivity suites, enterprise applications, analytics environments, and specialized business systems.
