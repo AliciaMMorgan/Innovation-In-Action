@@ -74,23 +74,30 @@ Identify opportunities to modernize processes while minimizing disruption to ong
 
 ## 4. Cross-Functional Translation
 
-Translate between technical, operational, and executive perspectives
-
-Help leaders understand AI capabilities, limitations, risks, and organizational implications
-
 Across all environments, I collaborate with:
 
-- Executive leadership  
-- Marketing and communications teams  
-- Finance and budgeting teams  
-- Engineers and technical specialists  
-- Educators and program staff  
-- Non-technical stakeholders and community partners  
+Executive leadership
+Marketing and communications teams
+Finance and budgeting teams
+Engineers and technical specialists
+Educators and program staff
+Non-technical stakeholders and community partners
 
 My role is to:
-- Understand each group's priorities and language  
-- Translate between technical and non-technical perspectives  
-- Shape data and documentation that support shared decision-making  
+
+Understand each group's priorities, constraints, and language
+
+Translate between technical, operational, and executive perspectives
+
+Help leaders understand technology capabilities, limitations, risks, and organizational implications
+
+Facilitate shared understanding across teams with different objectives and expertise
+
+Bridge strategy, operations, data, technology, and human adoption considerations
+
+Shape data, documentation, and communication that support informed decision-making
+
+Align initiatives with organizational goals, stakeholder needs, and business outcomes
 
 ---
 
