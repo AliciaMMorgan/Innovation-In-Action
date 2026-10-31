@@ -18,7 +18,7 @@ Technology implementation succeeds only when people understand its value, trust 
 
 ---
 
-## 2. Education and Higher Education Ecosystems
+## 2. Education, Workforce, and Mission-Driven Ecosystems
 
 Common characteristics:
 - Google Workspace as the collaboration backbone  
