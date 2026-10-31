@@ -37,50 +37,35 @@ How I work in these settings:
 
 ## 3. Corporate and Enterprise Ecosystems
 
-3. Corporate and Enterprise Ecosystems
-
-Common characteristics:
-
-**Enterprise productivity and collaboration platforms**
-(Microsoft 365, Google Workspace, and similar ecosystems)
-
-**Knowledge management and document repositories**
-
-**Business intelligence and executive reporting environments**
-
-**Project, service, and workflow management platforms**
-
-**Cloud infrastructure, enterprise applications, and data ecosystems**
-
-**Formal governance, cybersecurity, compliance, licensing, and access-control requirements**
-
-**Cross-functional teams operating across multiple technology environments**
-
 How I work in these settings:
 
-**Governance and operating models**
+**Learn the environment**
 Learn governance structures, approval pathways, and organizational operating models
 
-**Technology and data environments**
+**Understand the ecosystem**
 Understand existing technology investments, data flows, and decision-making processes
 
-**Compliance and operational alignment**
+**Design within existing constraints**
 Design solutions that align with established security, compliance, and operational requirements
 
-**Working within existing ecosystems**
+**Work where people already work**
 Work within existing collaboration, documentation, and workflow platforms
 
-**Cross-functional partnership**
+**Build cross-functional partnerships**
 Partner with technical, operational, and business teams to support sustainable implementation
 
-**Executive communication**
+**Support executive decision-making**
 Translate complex information into executive-ready insights, reporting, and decision-support materials
 
-**Modernization with minimal disruption**
+**Modernize responsibly**
 Identify opportunities to modernize processes while minimizing disruption to ongoing operations
+
+
 ---
 
 ## 4. Cross-Functional Translation
+
+4. Cross-Functional Translation
 
 Across all environments, I collaborate with:
 
@@ -106,6 +91,7 @@ Bridge strategy, operations, data, technology, and human adoption considerations
 Shape data, documentation, and communication that support informed decision-making
 
 Align initiatives with organizational goals, stakeholder needs, and business outcomes
+
 
 ---
 
