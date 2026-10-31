@@ -39,37 +39,35 @@ How I work in these settings:
 
 Common characteristics:
 
-Enterprise productivity and collaboration platforms (Microsoft 365, Google Workspace, and similar ecosystems)
+• Enterprise productivity and collaboration platforms (Microsoft 365, Google Workspace, and similar ecosystems)
 
-Knowledge management and document repositories
+• Knowledge management and document repositories
 
-Business intelligence and executive reporting environments
+• Business intelligence and executive reporting environments
 
-Project, service, and workflow management platforms
+• Project, service, and workflow management platforms
 
-Cloud infrastructure, enterprise applications, and data ecosystems
+• Cloud infrastructure, enterprise applications, and data ecosystems
 
-Formal governance, cybersecurity, compliance, licensing, and access-control requirements
+• Formal governance, cybersecurity, compliance, licensing, and access-control requirements
 
-Cross-functional teams operating across multiple technology environments
+• Cross-functional teams operating across multiple technology environments
 
 How I work in these settings:
 
-Learn governance structures, approval pathways, and organizational operating models
+• Learn governance structures, approval pathways, and organizational operating models
 
-Understand existing technology investments, data flows, and decision-making processes
+• Understand existing technology investments, data flows, and decision-making processes
 
-Design solutions that align with established security, compliance, and operational requirements
+• Design solutions that align with established security, compliance, and operational requirements
 
-Work within existing collaboration, documentation, and workflow platforms
+• Work within existing collaboration, documentation, and workflow platforms
 
-Partner with technical, operational, and business teams to support sustainable implementation
+• Partner with technical, operational, and business teams to support sustainable implementation
 
-Translate complex information into executive-ready insights, reporting, and decision-support materials
+• Translate complex information into executive-ready insights, reporting, and decision-support materials
 
-Identify opportunities to modernize processes while minimizing disruption to ongoing operations
-
-
+• Identify opportunities to modernize processes while minimizing disruption to ongoing operations
 ---
 
 ## 4. Cross-Functional Translation
