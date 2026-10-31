@@ -169,7 +169,7 @@ Organizations may extend capabilities through:
 
 ---
 
-8. Transformation Principles
+## 8. Transformation Principles
 
 Start with business outcomes, not technology.
 
