@@ -37,29 +37,18 @@ How I work in these settings:
 
 ## 3. Corporate and Enterprise Ecosystems
 
-How I work in these settings:
 
-**Learn the environment**
-Learn governance structures, approval pathways, and organizational operating models
+### Common Characteristics
 
-**Understand the ecosystem**
-Understand existing technology investments, data flows, and decision-making processes
+- Enterprise productivity and collaboration platforms
+- Knowledge management and document repositories
+- Business intelligence and executive reporting environments
 
-**Design within existing constraints**
-Design solutions that align with established security, compliance, and operational requirements
+### How I Work In These Settings
 
-**Work where people already work**
-Work within existing collaboration, documentation, and workflow platforms
-
-**Build cross-functional partnerships**
-Partner with technical, operational, and business teams to support sustainable implementation
-
-**Support executive decision-making**
-Translate complex information into executive-ready insights, reporting, and decision-support materials
-
-**Modernize responsibly**
-Identify opportunities to modernize processes while minimizing disruption to ongoing operations
-
+- Learn governance structures, approval pathways, and organizational operating models
+- Understand existing technology investments, data flows, and decision-making processes
+- Design solutions that align with established security, compliance, and operational requirements
 
 ---
 
