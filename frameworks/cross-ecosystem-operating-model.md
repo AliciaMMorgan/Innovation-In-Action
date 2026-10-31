@@ -65,8 +65,6 @@ Identify opportunities to modernize processes while minimizing disruption to ong
 
 ## 4. Cross-Functional Translation
 
-4. Cross-Functional Translation
-
 Across all environments, I collaborate with:
 
 Executive leadership
@@ -76,7 +74,7 @@ Engineers and technical specialists
 Educators and program staff
 Non-technical stakeholders and community partners
 
-My role is to:
+**My role is to**:
 
 Understand each group's priorities, constraints, and language
 
