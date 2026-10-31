@@ -115,9 +115,7 @@ AI is treated as an accelerator, not a replacement for human responsibility.
 
 Organizations increasingly use AI capabilities across collaboration platforms, productivity suites, enterprise applications, analytics environments, and specialized business systems.
 
-Organizations may use Microsoft Copilot, Google Gemini, ChatGPT Enterprise, Claude, enterprise agent platforms, workflow automation tools, and custom AI solutions.
-
-Examples include:
+### Examples of AI Capabilities Within Organizational Ecosystems
 
 - Microsoft 365 Copilot and related Microsoft AI capabilities
 - Google Gemini and Workspace AI features
@@ -126,7 +124,7 @@ Examples include:
 - Enterprise agent platforms and workflow automation tools
 - Custom AI solutions operating within approved organizational environments
 
-### AI Use Within Existing Workflows
+### AI Use Within Existing Organizational Workflows
 
 AI can support:
 
@@ -137,7 +135,7 @@ AI can support:
 - Workflow assistance and process acceleration
 - Knowledge discovery and information retrieval
 
-### Agent Design and Extension
+### AI Agent and Solution Design
 
 Organizations may extend capabilities through:
 
@@ -149,12 +147,15 @@ Organizations may extend capabilities through:
 
 ### Human Responsibilities Retained
 
+Organizations remain responsible for:
+
 - Accuracy verification
 - Reasoning and logic checking
 - Ethical judgment
 - Audience and brand alignment
 - Governance and compliance review
 - Accountability for final outputs
+
 
 ---
 
