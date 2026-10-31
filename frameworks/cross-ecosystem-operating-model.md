@@ -74,6 +74,10 @@ Identify opportunities to modernize processes while minimizing disruption to ong
 
 ## 4. Cross-Functional Translation
 
+Translate between technical, operational, and executive perspectives
+
+Help leaders understand AI capabilities, limitations, risks, and organizational implications
+
 Across all environments, I collaborate with:
 
 - Executive leadership  
