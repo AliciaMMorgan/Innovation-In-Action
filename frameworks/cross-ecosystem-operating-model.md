@@ -86,19 +86,49 @@ Tools are selected based on their ability to support clarity, trust, and strateg
 
 ## 6. AI Fluency Inside Existing Ecosystems
 
+## 6. AI Fluency Inside Existing Ecosystems
+
 AI is treated as an accelerator, not a replacement for human responsibility.
 
-**Everyday Copilot use**
-- Microsoft 365 Copilot for drafting, summarization, pattern recognition, and analysis support inside Word, Excel, PowerPoint, Outlook, Teams, and related Microsoft 365 experiences.
+Organizations increasingly use AI capabilities across collaboration platforms, productivity suites, enterprise applications, analytics environments, and specialized business systems.
 
-**Agent design and extension with Copilot Studio**
-- Copilot Studio for building and extending agents, connecting knowledge sources and tools, configuring workflows, testing behavior, and publishing agents to Microsoft 365 Copilot or Teams.
+Examples include:
 
-**Human responsibilities retained**
+- Microsoft 365 Copilot and related Microsoft AI capabilities
+- Google Gemini and Workspace AI features
+- ChatGPT Enterprise and team environments
+- Claude and enterprise AI assistants
+- Enterprise agent platforms and workflow automation tools
+- Custom AI solutions operating within approved organizational environments
+
+### AI Use Within Existing Workflows
+
+AI can support:
+
+- Drafting and content development
+- Research and synthesis
+- Pattern recognition and analysis
+- Reporting and presentation development
+- Workflow assistance and process acceleration
+- Knowledge discovery and information retrieval
+
+### Agent Design and Extension
+
+Organizations may extend capabilities through:
+
+- Microsoft Copilot Studio
+- Google Vertex AI environments
+- Azure AI services
+- Enterprise automation platforms
+- Custom workflow and agent solutions
+
+### Human Responsibilities Retained
+
 - Accuracy verification
 - Reasoning and logic checking
 - Ethical judgment
 - Audience and brand alignment
+- Governance and compliance review
 - Accountability for final outputs
 
 ---
