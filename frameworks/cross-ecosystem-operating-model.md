@@ -20,14 +20,14 @@ Technology implementation succeeds only when people understand its value, trust 
 
 ## 2. Education, Workforce, and Mission-Driven Ecosystems
 
-Common characteristics:
+### Common characteristics:
 - Google Workspace as the collaboration backbone  
 - Shared Drives as institutional knowledge repositories  
 - Docs, Sheets, and Slides for curriculum planning, research, and reporting  
 - Distributed editing and co-creation  
 - Rapid iteration in resource-conscious environments  
 
-How I work in these settings:
+### How I work in these settings:
 - Design shared research and documentation systems inside Google Drive  
 - Structure data collection and tracking in Sheets  
 - Facilitate co-creation across educators and administrators  
