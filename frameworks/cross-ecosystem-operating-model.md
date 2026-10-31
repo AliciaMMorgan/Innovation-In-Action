@@ -106,6 +106,8 @@ Typical activities include:
 
 Tools are selected based on their ability to support clarity, trust, and strategic decision-making, always tied back to business value and organizational goals.
 
+Measure adoption, engagement, operational outcomes, and business impact to support continuous improvement.
+
 ---
 
 ## 6. AI Fluency Inside Existing Ecosystems
@@ -113,6 +115,8 @@ Tools are selected based on their ability to support clarity, trust, and strateg
 AI is treated as an accelerator, not a replacement for human responsibility.
 
 Organizations increasingly use AI capabilities across collaboration platforms, productivity suites, enterprise applications, analytics environments, and specialized business systems.
+
+Organizations may use Microsoft Copilot, Google Gemini, ChatGPT Enterprise, Claude, enterprise agent platforms, workflow automation tools, and custom AI solutions.
 
 Examples include:
 
@@ -164,5 +168,24 @@ Organizations may extend capabilities through:
 - Keeps humans accountable as technology evolves  
 
 ---
+
+8. Transformation Principles
+
+Start with business outcomes, not technology.
+
+Respect existing investments and institutional knowledge.
+
+Prioritize adoption, trust, and usability.
+
+Keep governance proportional to risk.
+
+Design for sustainability rather than short-term excitement.
+
+Translate complexity into actionable decisions.
+
+Maintain human accountability.
+
+---
+
 
 This model allows organizations to modernize how they work without abandoning how they already function. Tools will change. Operating understanding remains the constant.
