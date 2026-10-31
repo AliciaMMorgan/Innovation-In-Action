@@ -54,30 +54,33 @@ How I work in these settings:
 
 ## 4. Cross-Functional Translation
 
+
 Across all environments, I collaborate with:
 
-Executive leadership
-Marketing and communications teams
-Finance and budgeting teams
-Engineers and technical specialists
-Educators and program staff
-Non-technical stakeholders and community partners
+### Stakeholders
 
-**My role is to**:
+- Executive leadership
+- Marketing and communications teams
+- Finance and budgeting teams
+- Engineers and technical specialists
+- Educators and program staff
+- Non-technical stakeholders and community partners
 
-Understand each group's priorities, constraints, and language
+### My Role
 
-Translate between technical, operational, and executive perspectives
+- Understand each group's priorities, constraints, and language
 
-Help leaders understand technology capabilities, limitations, risks, and organizational implications
+- Translate between technical, operational, and executive perspectives
 
-Facilitate shared understanding across teams with different objectives and expertise
+- Help leaders understand technology capabilities, limitations, risks, and organizational implications
 
-Bridge strategy, operations, data, technology, and human adoption considerations
+- Facilitate shared understanding across teams with different objectives and expertise
 
-Shape data, documentation, and communication that support informed decision-making
+- Bridge strategy, operations, data, technology, and human adoption considerations
 
-Align initiatives with organizational goals, stakeholder needs, and business outcomes
+- Shape data, documentation, and communication that support informed decision-making
+
+- Align initiatives with organizational goals, stakeholder needs, and business outcomes
 
 
 ---
