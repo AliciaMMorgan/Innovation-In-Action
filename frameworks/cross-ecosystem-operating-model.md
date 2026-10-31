@@ -35,20 +35,37 @@ How I work in these settings:
 ## 3. Corporate and Enterprise Ecosystems
 
 Common characteristics:
-- Microsoft 365 ecosystems for document and knowledge management
-- Microsoft 365 Copilot, where licensed and approved, for AI-assisted work across enterprise applications
-- SharePoint and OneDrive for controlled document storage  
-- Business intelligence tools for reporting and executive dashboards  
-- Jira or similar systems for workflow and project tracking  
-- Cloud infrastructure and enterprise systems governing data access  
-- Formal governance, licensing, and administrator-controlled permissions  
+
+Enterprise productivity and collaboration platforms (Microsoft 365, Google Workspace, and similar ecosystems)
+
+Knowledge management and document repositories
+
+Business intelligence and executive reporting environments
+
+Project, service, and workflow management platforms
+
+Cloud infrastructure, enterprise applications, and data ecosystems
+
+Formal governance, cybersecurity, compliance, licensing, and access-control requirements
+
+Cross-functional teams operating across multiple technology environments
 
 How I work in these settings:
-- Learn governance structures, approval pathways, and enterprise agreements  
-- Design documentation and reporting within SharePoint or OneDrive  
-- Align project execution with Jira or existing workflow tools  
-- Partner with technical teams on data access, cybersecurity, and compliance requirements  
-- Shape executive-ready data narratives and visualizations  
+
+Learn governance structures, approval pathways, and organizational operating models
+
+Understand existing technology investments, data flows, and decision-making processes
+
+Design solutions that align with established security, compliance, and operational requirements
+
+Work within existing collaboration, documentation, and workflow platforms
+
+Partner with technical, operational, and business teams to support sustainable implementation
+
+Translate complex information into executive-ready insights, reporting, and decision-support materials
+
+Identify opportunities to modernize processes while minimizing disruption to ongoing operations
+
 
 ---
 
