@@ -37,8 +37,6 @@ How I work in these settings:
 
 ## 3. Corporate and Enterprise Ecosystems
 
-3. Corporate and Enterprise Ecosystems
-
 Common characteristics:
 
 Enterprise productivity and collaboration platforms (Microsoft 365, Google Workspace, and similar ecosystems)
