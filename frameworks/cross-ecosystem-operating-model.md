@@ -13,6 +13,9 @@ I lead with understanding how people, information, and decisions flow inside the
 
 From that understanding, strategy, research, data systems, and implementation plans are designed to fit real operating conditions rather than theoretical best cases.
 
+Technology implementation succeeds only when people understand its value, trust its use, and can integrate it into daily work.
+
+
 ---
 
 ## 2. Education and Higher Education Ecosystems
