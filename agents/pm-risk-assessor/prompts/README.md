@@ -90,7 +90,6 @@ Maps cross-boundary flows and dependencies. Shows where tracking breaks down and
 
 This agent is informed by real-world experience scaling education programs under strict governance constraints:
 
-**[Read the full case study: Data Governance Foundation for a STEM Pipeline →](case-vp-stem-data-foundation.md)**
 
 ### Key Lessons Embedded in Agent Design:
 
