@@ -142,22 +142,6 @@ It's the difference between executing a workflow and exercising judgment informe
 
 ---
 
-## Get Started
-
-### **Option 1: Use the Prompt Library Today**
-**[→ Go to prompts/](prompts/)**
-
-Start with the Initial Risk Assessment or jump to the area where you know you have gaps.
-
-### **Option 2: See It In Action**
-**[→ Read the sample assessment](examples/sample-assessment-stem-museum.md)**
-
-Real example showing what each prompt surfaces and how risks were addressed.
-
-### **Option 3: Build on This Work**
-All content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapt these prompts to your context, add industry-specific questions, or integrate into your own tools.
-
----
 
 ## Related Resources
 
