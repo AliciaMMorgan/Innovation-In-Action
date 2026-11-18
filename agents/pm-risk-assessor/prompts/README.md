@@ -63,7 +63,7 @@ Maps cross-boundary flows and dependencies. Shows where tracking breaks down and
 
 ---
 
-## Planned Capabilities (Full Agent - Q1 2026)
+## Planned Capabilities
 
 **Interactive Assessment:**
 - Agent asks follow-up questions based on your responses
