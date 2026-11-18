@@ -136,7 +136,6 @@ It's the difference between executing a workflow and exercising judgment informe
 
 - **[Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation)** - Foundational frameworks this agent operationalizes
 - **[Innovation in Action Repository](https://github.com/AliciaMMorgan/Innovation-In-Action)** - Additional case studies and future agents
-- **[Case Study: STEM Data Governance](case-vp-stem-data-foundation.md)** - Real execution experience informing agent design
 
 ---
 
